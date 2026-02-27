@@ -9,5 +9,8 @@ def health():
 
 @app.post("/upload")
 def upload(file: UploadFile):
-    data = file.file.read()
+    if file.content_type != "application/pdf":
+        raise HTTPException(400,detail="invalida document type")
+    else:
+        data = file.file.read()
     return {"filename": file.filename}
