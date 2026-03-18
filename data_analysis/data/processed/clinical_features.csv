@@ -1,339 +1,365 @@
-Name,Sex,Age,HGB_class,PCV_class,MCHC_class,MCH_class,RDW_class,PLT_class,RBC_class,MCV_class,TLC_class,Alteracoes,Alerta
-Thomas Rodrigues,0.0,28.0,0,0,0,0,2,0,1,0,2,8,Alterações detectadas - Procurar médico
-Dr. Pedro Henrique da Rocha,0.0,41.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sra. Maria Eduarda Moraes,1.0,40.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Arthur Rios,0.0,76.0,0,0,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Emanuelly Costa,1.0,20.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Gael Henrique Pires,0.0,24.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Maria Cecília Pereira,1.0,28.0,1,1,0,0,2,1,1,1,1,3,Alterações detectadas - Procurar médico
-Sr. Samuel Freitas,0.0,62.0,1,1,0,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Sr. Diogo Novais,0.0,42.0,0,0,1,1,2,0,0,1,1,5,Alterações detectadas - Procurar médico
-Miguel Silva,0.0,28.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Bernardo Costa,0.0,59.0,0,0,1,1,2,0,0,1,1,5,Alterações detectadas - Procurar médico
-Antonella Rodrigues,1.0,28.0,2,2,1,2,1,1,0,2,1,5,Alterações detectadas - Procurar médico
-Bernardo Viana,0.0,60.0,1,1,1,1,1,2,1,1,1,1,Alterações detectadas - Procurar médico
-Daniel Martins,0.0,22.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Pedro Moura,0.0,64.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-João Pedro Gonçalves,0.0,78.0,0,0,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Vinícius Souza,0.0,57.0,0,0,0,1,2,1,0,1,0,6,Alterações detectadas - Procurar médico
-Caio Peixoto,0.0,51.0,2,2,1,1,1,1,2,1,1,3,Alterações detectadas - Procurar médico
-Melissa da Mota,1.0,50.0,1,1,1,0,2,1,1,0,2,4,Alterações detectadas - Procurar médico
-Luna da Rocha,1.0,77.0,2,2,0,0,1,1,1,0,1,5,Alterações detectadas - Procurar médico
-Giovanna Sales,1.0,40.0,2,1,0,0,1,1,1,1,1,3,Alterações detectadas - Procurar médico
-André Castro,0.0,53.0,0,0,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Natália da Paz,1.0,55.0,1,1,1,1,2,1,1,1,1,1,Alterações detectadas - Procurar médico
-Matteo Novaes,0.0,57.0,0,0,0,1,2,1,0,1,1,5,Alterações detectadas - Procurar médico
-Sr. Lorenzo Costa,0.0,36.0,1,1,0,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Carolina Cavalcante,1.0,25.0,1,1,0,0,2,0,1,0,1,5,Alterações detectadas - Procurar médico
-Augusto Pastor,0.0,80.0,0,0,0,1,2,1,0,1,1,5,Alterações detectadas - Procurar médico
-Anna Liz Caldeira,1.0,28.0,1,1,0,0,2,1,1,1,1,3,Alterações detectadas - Procurar médico
-Amanda Silveira,1.0,30.0,2,1,0,1,2,1,1,1,1,3,Alterações detectadas - Procurar médico
-Olivia Souza,1.0,25.0,2,2,1,1,2,1,0,1,1,4,Alterações detectadas - Procurar médico
-Maria Vitória Fernandes,1.0,35.0,2,2,0,0,2,1,1,1,1,5,Alterações detectadas - Procurar médico
-Igor Nogueira,0.0,56.0,0,0,1,0,1,1,1,0,1,4,Alterações detectadas - Procurar médico
-Anthony Gabriel Guerra,0.0,57.0,0,0,0,1,2,1,0,1,0,6,Alterações detectadas - Procurar médico
-Ayla Melo,1.0,40.0,2,1,0,0,1,1,1,1,1,3,Alterações detectadas - Procurar médico
-Oliver Cavalcante,0.0,70.0,0,0,1,0,2,1,0,1,2,6,Alterações detectadas - Procurar médico
-Sra. Maria Isis Lima,1.0,42.0,1,2,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-André Cardoso,0.0,79.0,0,0,1,2,1,1,0,1,1,4,Alterações detectadas - Procurar médico
-Dr. Thales Lopes,0.0,65.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Sr. Rael Marques,0.0,63.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-José Fonseca,0.0,29.0,1,0,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Arthur Miguel Ferreira,0.0,68.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Dra. Maria Luísa Alves,1.0,55.0,2,2,1,0,2,1,1,0,2,6,Alterações detectadas - Procurar médico
-Gabriela Nogueira,1.0,89.0,2,2,0,0,2,1,0,1,1,6,Alterações detectadas - Procurar médico
-Dra. Alice Azevedo,1.0,66.0,2,2,1,1,2,1,0,1,2,5,Alterações detectadas - Procurar médico
-Luigi Santos,0.0,56.0,0,0,1,1,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Fernando Costa,0.0,30.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Luiz Miguel Borges,0.0,44.0,2,1,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Apollo Aparecida,0.0,42.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Bella Gonçalves,1.0,58.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Miguel Rezende,0.0,60.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Manuela Nunes,1.0,40.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Giovanna Mendonça,1.0,40.0,2,2,0,1,2,1,0,1,2,6,Alterações detectadas - Procurar médico
-Melina Martins,1.0,20.0,2,2,0,0,2,1,1,1,1,5,Alterações detectadas - Procurar médico
-Stephany Rios,1.0,52.0,2,2,0,0,2,2,1,0,2,8,Alterações detectadas - Procurar médico
-Laura Araújo,1.0,30.0,1,1,0,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Sra. Mirella da Conceição,1.0,35.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Dr. Ravi Jesus,0.0,81.0,0,0,1,1,1,1,0,1,2,4,Alterações detectadas - Procurar médico
-Marina da Luz,1.0,18.0,2,2,0,0,1,1,0,0,2,7,Alterações detectadas - Procurar médico
-Mariane Brito,1.0,81.0,2,2,1,1,1,1,0,1,2,4,Alterações detectadas - Procurar médico
-Noah Barbosa,0.0,32.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Allana Mendes,1.0,70.0,0,0,0,1,1,1,1,1,1,3,Alterações detectadas - Procurar médico
-Rodrigo Viana,0.0,45.0,1,1,0,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Dra. Lorena Barros,1.0,44.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Arthur Gabriel Ramos,0.0,27.0,1,1,1,1,0,1,1,1,1,1,Alterações detectadas - Procurar médico
-Elisa Correia,1.0,24.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sr. Davi Miguel Campos,0.0,59.0,1,0,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Clara Duarte,1.0,26.0,2,2,0,0,2,1,0,1,2,7,Alterações detectadas - Procurar médico
-Heloísa da Rosa,1.0,25.0,1,2,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Pietro Pimenta,0.0,65.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Sr. João Lucas Vasconcelos,0.0,20.0,0,1,0,0,2,1,1,1,1,4,Alterações detectadas - Procurar médico
-Maria Eduarda da Mota,1.0,32.0,2,2,0,0,2,1,1,0,1,6,Alterações detectadas - Procurar médico
-Alice das Neves,1.0,27.0,2,2,1,0,1,2,1,1,1,4,Alterações detectadas - Procurar médico
-Gael Silva,0.0,55.0,1,1,0,0,2,1,2,0,1,5,Alterações detectadas - Procurar médico
-Apollo Nascimento,0.0,35.0,1,0,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-João Lucas Vargas,0.0,55.0,0,0,1,1,1,0,0,1,2,5,Alterações detectadas - Procurar médico
-Rodrigo Moura,0.0,51.0,0,0,0,0,1,0,0,0,1,7,Alterações detectadas - Procurar médico
-Anthony Gabriel Vasconcelos,0.0,43.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sra. Lunna Pacheco,1.0,33.0,1,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-André Ferreira,0.0,34.0,2,1,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Enzo Alves,0.0,36.0,2,1,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Lucas Gabriel Moura,0.0,35.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Liam Araújo,0.0,27.0,2,1,1,2,1,0,1,1,1,3,Alterações detectadas - Procurar médico
-Maria Eduarda Barbosa,1.0,71.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Sr. Juan Pimenta,0.0,35.0,0,0,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Sophie Cavalcanti,1.0,35.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Kaique Mendes,0.0,24.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Yago Pinto,0.0,28.0,0,0,1,1,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Dr. Guilherme Oliveira,0.0,52.0,1,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Srta. Caroline da Cunha,1.0,27.0,2,2,1,0,1,2,1,1,1,4,Alterações detectadas - Procurar médico
-Yago Monteiro,0.0,38.0,0,0,1,1,2,1,1,1,1,3,Alterações detectadas - Procurar médico
-Benício da Conceição,0.0,57.0,0,0,1,1,1,0,0,1,1,4,Alterações detectadas - Procurar médico
-Sr. Kaique Duarte,0.0,74.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Pietro Fernandes,0.0,32.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sr. Diego Jesus,0.0,27.0,0,0,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Henry Gabriel Correia,0.0,70.0,0,0,1,1,1,1,0,1,2,4,Alterações detectadas - Procurar médico
-Eduardo Barbosa,0.0,55.0,0,0,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Pedro Rezende,0.0,38.0,2,1,1,2,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Julia Azevedo,1.0,62.0,2,2,1,0,1,1,1,0,1,4,Alterações detectadas - Procurar médico
-Yago Rodrigues,0.0,72.0,0,0,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Vinícius Leão,0.0,58.0,2,1,1,1,1,1,2,1,2,3,Alterações detectadas - Procurar médico
-Daniel da Rosa,0.0,57.0,0,0,1,1,1,0,0,1,1,4,Alterações detectadas - Procurar médico
-Sr. Bruno Correia,0.0,40.0,1,0,1,1,1,0,1,1,1,2,Alterações detectadas - Procurar médico
-André Albuquerque,0.0,65.0,1,0,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Ana Júlia Sampaio,1.0,63.0,2,2,1,0,1,1,1,1,1,3,Alterações detectadas - Procurar médico
-Sr. Gabriel Oliveira,0.0,40.0,1,0,1,1,1,0,1,1,1,2,Alterações detectadas - Procurar médico
-Caroline Machado,1.0,43.0,2,2,1,1,2,0,0,1,1,5,Alterações detectadas - Procurar médico
-Dr. Luiz Felipe da Rocha,0.0,65.0,1,0,1,1,1,1,0,1,2,3,Alterações detectadas - Procurar médico
-Josué Siqueira,0.0,58.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Dr. Bernardo Porto,0.0,57.0,1,1,1,1,2,1,1,1,1,1,Alterações detectadas - Procurar médico
-Mathias Sá,0.0,49.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Maria Oliveira,1.0,42.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sr. João Vitor Almeida,0.0,22.0,2,1,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Sra. Gabrielly Caldeira,1.0,28.0,2,2,0,0,2,1,0,0,1,7,Alterações detectadas - Procurar médico
-Rodrigo Moraes,0.0,52.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Lavínia Marques,1.0,22.0,2,2,1,2,2,0,0,2,1,7,Alterações detectadas - Procurar médico
-Henrique Ribeiro,0.0,48.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Alícia Peixoto,1.0,35.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Rodrigo Ramos,0.0,60.0,0,0,1,1,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Dra. Amanda Macedo,1.0,30.0,1,2,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Nicole Pacheco,1.0,40.0,2,1,1,0,2,1,1,1,1,3,Alterações detectadas - Procurar médico
-Dr. Ryan Brito,0.0,35.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Maria Sampaio,1.0,60.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Stephany da Cruz,1.0,34.0,2,2,0,0,2,1,0,1,1,6,Alterações detectadas - Procurar médico
-Maria Eduarda Fogaça,1.0,35.0,2,1,0,0,2,1,1,1,1,4,Alterações detectadas - Procurar médico
-Ian Macedo,0.0,52.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Maria Isis da Paz,1.0,42.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Benjamin Alves,0.0,48.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Letícia Ferreira,1.0,50.0,2,2,1,1,1,2,0,1,1,4,Alterações detectadas - Procurar médico
-Liz Moreira,1.0,38.0,2,1,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Dr. Marcelo Caldeira,0.0,78.0,0,0,0,0,2,1,1,0,1,6,Alterações detectadas - Procurar médico
-Isaque Azevedo,0.0,30.0,0,0,1,1,1,0,1,1,1,3,Alterações detectadas - Procurar médico
-José Cavalcante,0.0,60.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Camila da Mota,1.0,35.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sr. Carlos Eduardo Garcia,0.0,30.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Diogo Monteiro,0.0,38.0,1,1,1,1,2,1,0,1,1,2,Alterações detectadas - Procurar médico
-Luiz Felipe Abreu,0.0,28.0,0,0,1,2,1,1,0,2,1,5,Alterações detectadas - Procurar médico
-Dr. Vinícius Silveira,0.0,24.0,0,0,1,1,2,1,0,1,1,4,Alterações detectadas - Procurar médico
-Davi Lucas Costa,0.0,38.0,1,0,1,2,2,1,0,1,1,4,Alterações detectadas - Procurar médico
-Aurora Lima,1.0,80.0,2,2,1,1,2,0,0,1,2,6,Alterações detectadas - Procurar médico
-Alícia da Cruz,1.0,78.0,2,2,1,1,1,0,0,1,1,4,Alterações detectadas - Procurar médico
-Ana Liz Duarte,1.0,54.0,2,2,1,1,2,0,0,1,1,5,Alterações detectadas - Procurar médico
-Anthony Gabriel Cavalcanti,0.0,26.0,1,0,1,1,1,0,1,1,1,2,Alterações detectadas - Procurar médico
-Srta. Luna Câmara,1.0,24.0,1,2,1,1,2,0,0,1,1,4,Alterações detectadas - Procurar médico
-Mateus Oliveira,0.0,57.0,0,0,1,1,1,0,0,1,0,5,Alterações detectadas - Procurar médico
-Caroline Souza,1.0,78.0,2,2,1,1,1,0,0,1,1,4,Alterações detectadas - Procurar médico
-Catarina Jesus,1.0,65.0,2,2,1,1,1,0,0,1,1,4,Alterações detectadas - Procurar médico
-Melissa Fogaça,1.0,24.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Maria Cecília da Costa,1.0,27.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Alícia Almeida,1.0,23.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Helena Lopes,1.0,22.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Luiz Henrique Macedo,0.0,28.0,0,0,1,2,2,1,0,1,1,5,Alterações detectadas - Procurar médico
-Sr. Breno Porto,0.0,47.0,1,0,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Mathias Macedo,0.0,54.0,1,0,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Noah Monteiro,0.0,65.0,1,0,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Sr. Arthur Miguel Carvalho,0.0,50.0,1,0,1,1,1,0,1,1,1,2,Alterações detectadas - Procurar médico
-Sra. Maria Julia da Luz,1.0,24.0,1,2,1,1,1,0,0,1,1,3,Alterações detectadas - Procurar médico
-Melissa Barros,1.0,46.0,1,2,1,0,2,1,1,0,1,4,Alterações detectadas - Procurar médico
-Henry Gabriel Freitas,0.0,35.0,1,0,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Sr. Lucas Gabriel Vasconcelos,0.0,47.0,1,0,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Gustavo Henrique Jesus,0.0,62.0,1,0,2,1,2,0,1,1,1,4,Alterações detectadas - Procurar médico
-Antonella Mendonça,1.0,40.0,1,2,1,1,2,1,0,1,1,3,Alterações detectadas - Procurar médico
-Dr. Danilo Cavalcante,0.0,37.0,0,0,1,0,1,1,1,1,1,3,Alterações detectadas - Procurar médico
-Dom Lopes,0.0,38.0,1,0,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Gael Henrique Oliveira,0.0,29.0,1,0,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Larissa Cirino,1.0,50.0,1,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Sra. Maria Isis Silveira,1.0,27.0,1,2,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Luiz Miguel Melo,0.0,62.0,1,0,1,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Jade Rios,1.0,36.0,1,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Benício Nascimento,0.0,28.0,1,0,2,1,2,1,1,1,1,3,Alterações detectadas - Procurar médico
-Srta. Ísis Rios,1.0,60.0,1,1,0,0,2,1,1,1,2,4,Alterações detectadas - Procurar médico
-Gael Montenegro,0.0,60.0,0,0,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Srta. Emanuelly Viana,1.0,48.0,1,1,1,1,2,1,1,1,1,1,Alterações detectadas - Procurar médico
-Erick Montenegro,0.0,80.0,0,0,0,1,1,1,0,1,1,4,Alterações detectadas - Procurar médico
-Alice Moura,1.0,55.0,1,1,0,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Dra. Caroline Porto,1.0,25.0,2,2,1,0,2,1,1,1,1,4,Alterações detectadas - Procurar médico
-Nathan Costela,0.0,31.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Dr. Eduardo Nunes,0.0,72.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Valentim Pires,0.0,32.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Sabrina da Rocha,1.0,21.0,2,2,1,1,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Sr. Oliver da Mata,0.0,53.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Maria Luísa da Mata,1.0,38.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Anthony Novais,0.0,30.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Yago Pires,0.0,60.0,1,1,1,1,1,2,1,1,1,1,Alterações detectadas - Procurar médico
-Maria Liz Dias,1.0,45.0,1,1,0,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-João Vitor da Rosa,0.0,65.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Henry Vasconcelos,0.0,20.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sofia Cardoso,1.0,32.0,1,1,0,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Eduardo Câmara,0.0,75.0,2,2,0,1,1,1,2,1,2,5,Alterações detectadas - Procurar médico
-Anthony Cirino,0.0,29.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sra. Sofia da Mata,1.0,70.0,2,1,0,1,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Sr. Diogo Campos,0.0,66.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Helena Cavalcante,1.0,70.0,1,1,1,1,0,1,1,1,1,1,Alterações detectadas - Procurar médico
-Dra. Maria Clara Pimenta,1.0,40.0,2,2,1,1,2,1,0,1,1,4,Alterações detectadas - Procurar médico
-Kamilly Cavalcanti,1.0,38.0,2,1,0,0,2,1,1,1,1,4,Alterações detectadas - Procurar médico
-Stephany Vieira,1.0,38.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Dr. Calebe Farias,0.0,62.0,0,0,2,2,1,1,0,0,2,7,Alterações detectadas - Procurar médico
-Murilo Cavalcanti,0.0,87.0,1,0,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Anna Liz Moreira,1.0,54.0,1,2,1,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Maria Vitória Nogueira,1.0,72.0,2,2,1,0,2,1,0,0,1,6,Alterações detectadas - Procurar médico
-Maria Clara Almeida,1.0,65.0,1,2,1,1,2,1,0,1,1,3,Alterações detectadas - Procurar médico
-Rael Barbosa,0.0,61.0,1,0,1,1,1,1,0,1,2,3,Alterações detectadas - Procurar médico
-Kevin Vargas,0.0,70.0,1,0,2,0,2,1,2,0,1,6,Alterações detectadas - Procurar médico
-João Lucas Caldeira,0.0,52.0,1,0,2,1,0,1,1,1,1,3,Alterações detectadas - Procurar médico
-Maria Eduarda Borges,1.0,55.0,1,2,1,1,1,0,1,1,1,2,Alterações detectadas - Procurar médico
-Sr. Lorenzo Pinto,0.0,60.0,1,0,2,1,0,1,0,1,1,4,Alterações detectadas - Procurar médico
-Anna Liz Aparecida,1.0,33.0,1,2,2,1,0,1,0,1,1,4,Alterações detectadas - Procurar médico
-Stella Nascimento,1.0,57.0,1,2,1,1,1,0,1,0,1,3,Alterações detectadas - Procurar médico
-Anthony Gabriel Cardoso,0.0,35.0,2,1,2,1,1,0,1,1,1,3,Alterações detectadas - Procurar médico
-Maria Fernanda Rezende,1.0,73.0,2,2,1,0,2,1,0,0,1,6,Alterações detectadas - Procurar médico
-Vitor Gabriel Silveira,0.0,57.0,1,0,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Gael Souza,0.0,58.0,1,0,2,1,1,2,1,0,1,4,Alterações detectadas - Procurar médico
-Antony Silva,0.0,71.0,0,0,2,1,1,1,0,1,2,5,Alterações detectadas - Procurar médico
-Bernardo Fogaça,0.0,62.0,1,0,1,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Caio Almeida,0.0,65.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Caio Dias,0.0,65.0,1,2,0,1,1,1,2,1,1,3,Alterações detectadas - Procurar médico
-Rhavi da Cunha,0.0,74.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Luiz Felipe Sampaio,0.0,75.0,1,2,0,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Caio Moraes,0.0,57.0,2,2,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Guilherme Castro,0.0,65.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Jade Cavalcanti,1.0,69.0,1,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Felipe Azevedo,0.0,48.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Davi Lucca Farias,0.0,69.0,1,1,1,1,2,1,1,1,2,2,Alterações detectadas - Procurar médico
-Levi Cardoso,0.0,57.0,2,2,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Enzo Aragão,0.0,75.0,1,2,0,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Raquel Rocha,1.0,65.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Bella Almeida,1.0,22.0,2,2,0,1,2,0,0,1,1,6,Alterações detectadas - Procurar médico
-Isabel Câmara,1.0,35.0,2,2,0,0,2,1,0,0,1,7,Alterações detectadas - Procurar médico
-Davi Lucas Sampaio,0.0,47.0,0,0,0,0,2,1,0,1,1,6,Alterações detectadas - Procurar médico
-Pedro Lucas Moreira,0.0,49.0,1,1,1,2,1,1,0,2,1,3,Alterações detectadas - Procurar médico
-Maria Flor Correia,1.0,35.0,2,2,0,0,2,1,1,0,1,6,Alterações detectadas - Procurar médico
-Sra. Maya Peixoto,1.0,30.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Melissa Araújo,1.0,55.0,1,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Ana Clara Mendonça,1.0,50.0,1,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procurar médico
-Yan Rios,0.0,72.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Daniela Vargas,1.0,70.0,1,2,1,1,1,1,0,1,2,3,Alterações detectadas - Procurar médico
-Jade Pimenta,1.0,27.0,1,1,0,0,2,1,1,1,1,3,Alterações detectadas - Procurar médico
-Vitor Hugo Monteiro,0.0,58.0,1,1,0,1,2,0,1,1,2,4,Alterações detectadas - Procurar médico
-Calebe Marques,0.0,80.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Dr. Josué da Mota,0.0,50.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Lucas Gabriel Borges,0.0,45.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Ana Beatriz Cardoso,1.0,65.0,2,1,1,1,1,2,0,1,1,3,Alterações detectadas - Procurar médico
-Esther Peixoto,1.0,65.0,2,2,0,1,1,1,0,1,1,4,Alterações detectadas - Procurar médico
-Pedro Henrique da Rosa,0.0,33.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Henry Gabriel Silva,0.0,65.0,2,2,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Ana Liz Montenegro,1.0,50.0,1,1,0,0,2,1,1,1,2,4,Alterações detectadas - Procurar médico
-Luiz Henrique da Mota,0.0,60.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Nina Mendonça,1.0,30.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Noah Araújo,0.0,36.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Brenda Ribeiro,1.0,42.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Bento Melo,0.0,68.0,0,0,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Bella Camargo,1.0,65.0,2,2,1,1,2,1,0,1,1,4,Alterações detectadas - Procurar médico
-Joaquim Rios,0.0,57.0,0,0,1,1,0,1,0,1,2,5,Alterações detectadas - Procurar médico
-Davi Lucas Vasconcelos,0.0,63.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Amanda Pinto,1.0,18.0,2,2,0,0,2,2,1,1,2,7,Alterações detectadas - Procurar médico
-Helena Rodrigues,1.0,25.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Marina da Paz,1.0,65.0,1,1,0,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Levi Cassiano,0.0,24.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Nicolas Fernandes,0.0,62.0,0,0,2,1,1,0,0,1,1,5,Alterações detectadas - Procurar médico
-Luiz Felipe Novaes,0.0,46.0,1,0,1,2,0,1,0,1,1,4,Alterações detectadas - Procurar médico
-Matteo da Mata,0.0,72.0,0,0,2,1,1,1,0,1,2,5,Alterações detectadas - Procurar médico
-Eduardo Costa,0.0,66.0,1,0,2,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Henry Gabriel Peixoto,0.0,62.0,1,0,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Otto Vargas,0.0,48.0,2,2,1,1,1,1,1,1,2,3,Alterações detectadas - Procurar médico
-Francisco Fogaça,0.0,30.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Ana Julia Vasconcelos,1.0,45.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Enrico da Rosa,0.0,58.0,0,0,1,0,0,1,1,1,1,4,Alterações detectadas - Procurar médico
-Vitor Hugo Martins,0.0,58.0,1,0,1,1,1,0,1,1,1,2,Alterações detectadas - Procurar médico
-Laura Casa Grande,1.0,47.0,2,2,1,1,2,1,1,0,1,4,Alterações detectadas - Procurar médico
-Carolina Pastor,1.0,60.0,1,1,0,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Ayla Pinto,1.0,73.0,1,1,0,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Augusto Rocha,0.0,44.0,1,1,0,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Allana Martins,1.0,50.0,1,1,0,1,2,1,1,1,2,3,Alterações detectadas - Procurar médico
-Fernanda Borges,1.0,55.0,2,2,0,0,1,1,1,1,1,4,Alterações detectadas - Procurar médico
-Maria Luiza Aparecida,1.0,83.0,1,2,2,2,1,1,0,1,1,4,Alterações detectadas - Procurar médico
-Cecília Costa,1.0,34.0,2,2,1,1,1,1,0,1,2,4,Alterações detectadas - Procurar médico
-Marcos Vinicius Rezende,0.0,48.0,2,1,1,1,1,0,1,1,1,2,Alterações detectadas - Procurar médico
-Ana Clara Martins,1.0,42.0,2,2,0,0,2,1,0,0,1,7,Alterações detectadas - Procurar médico
-Zoe Freitas,1.0,52.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Breno Freitas,0.0,80.0,0,0,2,1,1,1,0,1,1,4,Alterações detectadas - Procurar médico
-Mathias Freitas,0.0,57.0,0,0,2,2,1,1,0,1,1,5,Alterações detectadas - Procurar médico
-Pietra Andrade,1.0,62.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Srta. Lavínia Novaes,1.0,26.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Felipe Porto,0.0,83.0,0,0,1,1,1,0,0,1,2,5,Alterações detectadas - Procurar médico
-Sr. Cauê Barros,0.0,35.0,1,0,2,1,1,1,1,1,1,2,Alterações detectadas - Procurar médico
-Maria Liz Pimenta,1.0,54.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Dr. João Gabriel Barbosa,0.0,57.0,0,0,2,2,1,1,0,1,2,6,Alterações detectadas - Procurar médico
-Luísa Caldeira,1.0,55.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Oliver Montenegro,0.0,19.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Caleb Borges,0.0,45.0,1,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Daniela Guerra,1.0,80.0,2,2,0,0,2,1,0,1,2,7,Alterações detectadas - Procurar médico
-Sr. Breno Pereira,0.0,49.0,0,0,1,1,2,1,0,1,2,5,Alterações detectadas - Procurar médico
-Dra. Sarah Lima,1.0,60.0,1,1,0,1,0,1,1,1,1,2,Alterações detectadas - Procurar médico
-Sra. Maria Cecília Cavalcanti,1.0,52.0,1,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procurar médico
-Brenda da Paz,1.0,46.0,1,1,0,0,2,2,1,1,1,4,Alterações detectadas - Procurar médico
-Gabrielly Novaes,1.0,22.0,2,2,0,0,1,1,1,1,1,4,Alterações detectadas - Procurar médico
-Benício Alves,0.0,32.0,0,0,1,2,2,0,0,2,1,7,Alterações detectadas - Procurar médico
-Natália Sampaio,1.0,56.0,1,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procurar médico
-Hellena Andrade,1.0,31.0,1,2,1,1,2,1,1,1,1,2,Alterações detectadas - Procurar médico
-Luiza da Paz,1.0,34.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Bárbara Castro,1.0,21.0,2,2,1,1,2,1,0,1,1,4,Alterações detectadas - Procurar médico
-Maria Luísa da Rocha,1.0,28.0,1,2,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Lara Silveira,1.0,32.0,0,1,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Milena Rios,1.0,29.0,1,2,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Marcelo das Neves,0.0,39.0,1,1,1,1,2,1,1,1,1,1,Alterações detectadas - Procurar médico
-Valentina Lima,1.0,55.0,1,2,1,1,2,0,1,1,1,3,Alterações detectadas - Procurar médico
-Dr. Asafe Pereira,0.0,47.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Camila Almeida,1.0,27.0,1,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Breno Borges,0.0,25.0,2,1,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Letícia Lima,1.0,26.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Luiz Miguel Guerra,0.0,38.0,2,1,1,1,1,1,2,1,1,2,Alterações detectadas - Procurar médico
-Catarina da Rocha,1.0,60.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Sra. Sofia Martins,1.0,74.0,1,1,1,1,2,0,1,1,1,2,Alterações detectadas - Procurar médico
-Sra. Gabrielly Teixeira,1.0,70.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Srta. Luara Albuquerque,1.0,24.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Manuela Campos,1.0,28.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Dra. Maria Eduarda Novaes,1.0,23.0,0,1,1,1,1,1,1,1,0,2,Alterações detectadas - Procurar médico
-Maria Helena Jesus,1.0,74.0,1,1,1,1,2,0,1,1,1,2,Alterações detectadas - Procurar médico
-Raquel da Costa,1.0,41.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Benjamin Ribeiro,0.0,27.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Dra. Lívia Gonçalves,1.0,24.0,1,2,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Paulo Silva,0.0,68.0,1,0,1,1,1,1,0,1,1,2,Alterações detectadas - Procurar médico
-Anthony Gabriel Caldeira,0.0,57.0,1,0,1,1,1,1,1,1,2,2,Alterações detectadas - Procurar médico
-Dom Sales,0.0,26.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Helena Barros,1.0,27.0,2,2,1,1,1,1,0,1,1,3,Alterações detectadas - Procurar médico
-Dra. Gabrielly Borges,1.0,65.0,1,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procurar médico
-Emanuella Montenegro,1.0,45.0,0,1,1,1,1,1,1,1,0,2,Alterações detectadas - Procurar médico
-Danilo Correia,0.0,27.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Evelyn Lima,1.0,34.0,1,1,1,1,1,1,0,1,2,2,Alterações detectadas - Procurar médico
-Pedro Henrique Aparecida,0.0,31.0,0,1,1,1,0,1,0,1,1,3,Alterações detectadas - Procurar médico
-Levi Porto,0.0,46.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Marcela Novais,1.0,25.0,1,1,1,1,2,1,1,1,1,1,Alterações detectadas - Procurar médico
-João Gabriel Costela,0.0,24.0,1,0,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Henry Gabriel Pimenta,0.0,28.0,0,0,1,1,2,2,0,1,1,5,Alterações detectadas - Procurar médico
-Heitor Almeida,0.0,22.0,0,0,1,0,2,1,1,0,1,5,Alterações detectadas - Procurar médico
-Josué Sales,0.0,51.0,1,0,1,1,1,1,1,1,1,1,Alterações detectadas - Procurar médico
-Sophie Dias,1.0,21.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Lunna Siqueira,1.0,35.0,1,1,1,1,1,1,1,1,1,0,Dentro da normalidade
-Enzo Gabriel Viana,0.0,26.0,2,1,1,1,0,1,1,1,1,2,Alterações detectadas - Procurar médico
+S.No.,Age,Sex,RBC,PCV,MCV,MCH,MCHC,RDW,TLC,PLT/mm3,HGB,Name,patient_id,HGB_class,PCV_class,RBC_class,MCV_class,MCH_class,MCHC_class,RDW_class,TLC_class,total_alerts,status_message
+1.0,28.0,0.0,5.66,34.0,60.1,17.0,28.2,20.0,11.1,128.3,9.6,Oliver Fogaça,1,0,0,1,0,0,0,2,2,7,Alterações detectadas - Procure um médico
+2.0,41.0,0.0,4.78,44.5,93.1,28.9,31.0,13.0,7.02,419.0,13.8,Marcos Vinicius Cavalcanti,2,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+3.0,40.0,1.0,4.65,41.6,89.5,28.8,32.2,13.0,8.09,325.0,13.4,Raquel Nascimento,3,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+4.0,76.0,0.0,4.24,36.7,86.6,26.7,30.8,14.9,13.41,264.0,11.3,Thales Barbosa,4,0,0,0,1,0,0,2,2,7,Alterações detectadas - Procure um médico
+5.0,20.0,1.0,4.14,36.9,89.1,27.8,31.2,13.2,4.75,196.0,11.5,Ana Liz da Mota,5,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+6.0,24.0,0.0,4.29,40.1,93.5,29.6,31.7,14.5,13.96,233.0,12.7,Augusto Castro,6,1,1,0,1,1,0,1,2,3,Alterações detectadas - Procure um médico
+7.0,28.0,1.0,4.98,42.3,84.9,24.9,29.3,16.2,9.33,213.0,12.4,Srta. Sophia Barros,7,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+8.0,14.0,0.0,4.97,43.8,88.1,28.0,31.7,15.2,3.92,229.0,13.9,Fernando Cunha,8,1,1,1,1,1,0,2,0,3,Alterações detectadas - Procure um médico
+9.0,16.0,0.0,4.16,38.7,93.0,28.8,31.0,17.9,5.77,211.0,12.0,Davi Luiz Mendes,9,1,1,0,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+10.0,62.0,0.0,5.25,45.6,86.9,25.3,29.2,15.6,10.68,151.0,13.3,Luan Porto,10,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+11.0,42.0,0.0,2.17,28.3,93.5,28.1,30.0,24.6,3.46,92.0,6.1,Sr. Davi Miguel Casa Grande,11,0,0,0,1,1,0,2,0,6,Alterações detectadas - Procure um médico
+12.0,28.0,0.0,4.81,44.4,92.3,27.9,30.2,14.3,6.22,150.0,13.4,Luigi Abreu,12,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+13.0,59.0,0.0,3.41,32.9,96.5,29.9,31.0,16.8,6.62,132.0,10.2,Otto Ribeiro,13,0,0,0,1,1,0,2,1,5,Alterações detectadas - Procure um médico
+14.0,28.0,1.0,2.26,26.9,119.0,41.2,34.6,15.6,5.27,222.0,9.3,Eloá Garcia,14,0,0,0,2,2,1,2,1,6,Alterações detectadas - Procure um médico
+15.0,60.0,0.0,4.52,38.5,87.4,26.5,30.4,14.7,10.52,589.0,12.0,Sr. André Pereira,15,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+16.0,22.0,0.0,5.17,44.5,86.1,27.7,32.1,13.2,10.7,268.0,14.3,Sr. Caleb Araújo,16,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+17.0,64.0,0.0,4.6,41.4,90.0,28.5,31.6,14.4,9.67,150.0,13.1,Dr. Benjamim Castro,17,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+18.0,78.0,0.0,4.24,36.7,86.6,26.7,30.8,14.9,13.41,264.0,11.3,Matteo Gonçalves,18,0,0,0,1,0,0,2,2,7,Alterações detectadas - Procure um médico
+19.0,57.0,0.0,3.01,31.2,103.7,29.9,28.8,25.0,2.88,400.0,9.0,Kaique Marques,19,0,0,0,2,1,0,2,0,7,Alterações detectadas - Procure um médico
+20.0,51.0,0.0,6.6,49.3,88.0,27.9,31.6,13.3,9.55,154.0,15.6,Sr. Davi Lucca da Mota,20,2,2,2,1,1,0,1,1,4,Alterações detectadas - Procure um médico
+21.0,50.0,1.0,5.46,40.5,74.2,23.3,31.4,17.2,12.05,350.0,12.7,Sra. Milena da Mata,21,1,1,1,0,0,0,2,2,5,Alterações detectadas - Procure um médico
+22.0,77.0,1.0,4.36,32.2,73.9,21.3,28.9,16.0,10.8,438.0,9.3,Larissa Dias,22,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+23.0,40.0,1.0,4.56,35.9,78.7,23.5,29.8,15.8,6.17,233.0,10.7,Zoe Cirino,23,0,1,1,0,0,0,2,1,5,Alterações detectadas - Procure um médico
+24.0,53.0,0.0,3.81,34.9,91.5,30.7,33.5,14.3,5.37,219.0,11.7,Kaique Câmara,24,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+25.0,55.0,1.0,4.11,38.4,93.4,28.2,30.2,16.1,5.79,186.0,11.6,Nina Macedo,25,1,1,0,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+26.0,57.0,0.0,3.54,36.8,104.0,29.9,28.8,22.5,6.2,198.0,10.6,Luigi Nunes,26,0,0,0,2,1,0,2,1,6,Alterações detectadas - Procure um médico
+27.0,36.0,0.0,4.83,42.5,88.0,26.3,29.9,13.5,13.93,283.0,12.7,Dr. Thomas Araújo,27,1,1,1,1,0,0,1,2,3,Alterações detectadas - Procure um médico
+28.0,25.0,1.0,5.65,38.4,68.0,20.0,29.4,17.7,5.8,125.0,11.3,Ana Lívia Mendonça,28,1,1,1,0,0,0,2,1,4,Alterações detectadas - Procure um médico
+29.0,80.0,0.0,3.81,34.8,91.3,26.5,29.0,16.3,9.11,188.0,10.1,Cauã Caldeira,29,0,0,0,1,0,0,2,1,6,Alterações detectadas - Procure um médico
+30.0,28.0,1.0,4.98,42.3,84.9,24.9,29.3,16.2,9.33,158.0,12.4,Isabela Casa Grande,30,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+31.0,30.0,1.0,4.36,36.4,83.5,25.0,29.9,17.9,9.43,324.0,10.9,Eduarda Fernandes,31,0,1,0,1,0,0,2,1,5,Alterações detectadas - Procure um médico
+32.0,25.0,1.0,3.04,30.1,99.0,29.9,30.2,17.4,4.64,241.0,9.1,Olivia Abreu,32,0,0,0,1,1,0,2,1,5,Alterações detectadas - Procure um médico
+33.0,35.0,1.0,4.12,34.5,83.7,24.0,28.7,17.3,8.61,306.0,9.9,Dra. Esther Nogueira,33,0,0,0,1,0,0,2,1,6,Alterações detectadas - Procure um médico
+34.0,56.0,0.0,4.87,33.7,69.2,21.1,30.6,15.0,5.75,221.0,10.3,Gael Henrique Alves,34,0,0,1,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+35.0,57.0,0.0,3.01,31.2,103.7,29.9,28.8,25.0,2.88,400.0,9.0,Caio Alves,35,0,0,0,2,1,0,2,0,7,Alterações detectadas - Procure um médico
+36.0,40.0,1.0,4.56,35.9,78.7,23.5,29.8,15.8,6.17,233.0,10.7,Elisa Teixeira,36,0,1,1,0,0,0,2,1,5,Alterações detectadas - Procure um médico
+37.0,70.0,0.0,3.15,25.2,80.0,24.8,31.0,16.5,13.16,398.0,7.8,Pedro Miguel Nascimento,37,0,0,0,1,0,0,2,2,7,Alterações detectadas - Procure um médico
+38.0,42.0,1.0,3.91,35.3,90.3,29.3,32.3,15.1,9.08,153.0,11.4,Aylla Melo,38,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+39.0,14.0,0.0,2.83,22.8,80.6,27.6,34.2,13.3,6.2,222.0,7.8,Diogo Marques,39,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+40.0,79.0,0.0,1.96,22.1,112.8,36.2,32.1,14.8,7.6,150.0,7.1,Diego Costela,40,0,0,0,2,2,1,2,1,6,Alterações detectadas - Procure um médico
+41.0,65.0,0.0,4.68,41.4,88.5,30.6,34.5,13.3,20.3,362.0,14.3,Henry Gabriel Carvalho,41,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procure um médico
+42.0,63.0,0.0,4.67,43.6,93.4,31.7,33.9,13.5,9.8,162.0,14.8,Mathias Sampaio,42,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+43.0,29.0,0.0,4.13,37.9,91.8,31.7,34.6,16.3,6.0,140.0,13.1,Antônio Cirino,43,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+44.0,68.0,0.0,4.57,39.1,85.6,27.6,32.2,13.9,6.6,155.0,12.6,Lucca da Mata,44,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+45.0,55.0,1.0,4.8,27.9,57.3,17.7,30.8,17.9,23.1,182.0,8.5,Dra. Maria Flor Albuquerque,45,0,0,1,0,0,0,2,2,7,Alterações detectadas - Procure um médico
+46.0,89.0,1.0,2.99,23.1,77.3,23.1,29.9,18.3,6.4,187.0,6.9,Maria Luísa Novais,46,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+47.0,66.0,1.0,3.7,32.7,88.4,28.1,31.8,16.5,13.4,140.0,10.4,Beatriz Araújo,47,0,0,0,1,1,0,2,2,6,Alterações detectadas - Procure um médico
+48.0,56.0,0.0,4.32,38.0,88.0,26.9,30.5,13.7,8.19,378.0,11.6,Levi Cavalcanti,48,0,0,0,1,0,0,1,1,5,Alterações detectadas - Procure um médico
+49.0,30.0,0.0,4.33,44.3,102.3,32.6,31.8,15.5,7.03,90.0,14.1,Matteo Leão,49,1,1,0,2,1,0,2,1,4,Alterações detectadas - Procure um médico
+50.0,44.0,0.0,5.25,45.3,86.3,28.8,33.3,14.5,9.56,150.0,15.1,Isaque da Cruz,50,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+51.0,42.0,0.0,4.99,44.6,89.4,28.3,31.6,13.9,6.11,159.0,14.1,Fernando Pastor,51,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+52.0,58.0,1.0,4.18,36.3,84.4,26.3,31.2,13.6,9.74,238.0,11.0,Srta. Maria Laura Nunes,52,1,1,0,1,0,0,1,1,3,Alterações detectadas - Procure um médico
+53.0,60.0,0.0,4.74,41.8,87.8,28.3,32.2,13.3,9.06,241.0,13.4,Oliver Barbosa,53,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+54.0,40.0,1.0,4.59,38.3,83.3,26.1,31.3,14.9,7.55,150.0,12.0,Fernanda Moraes,54,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+55.0,40.0,1.0,3.49,32.4,92.8,26.4,28.4,18.5,15.65,333.0,9.2,Isabelly Cavalcanti,55,0,0,0,1,0,0,2,2,7,Alterações detectadas - Procure um médico
+56.0,20.0,1.0,4.35,34.4,79.1,22.5,28.5,19.2,5.71,359.0,9.8,Stella Brito,56,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+57.0,15.0,0.0,5.84,43.8,75.0,25.5,25.5,12.4,2.6,160.0,14.9,Marcos Vinicius Moraes,57,1,1,1,0,0,0,1,0,4,Alterações detectadas - Procure um médico
+58.0,13.0,0.0,5.08,38.2,75.2,21.7,28.8,15.8,10.54,206.0,11.0,João Guilherme Cardoso,58,0,0,1,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+59.0,52.0,1.0,4.68,35.0,74.8,21.8,29.1,17.1,12.8,534.0,10.2,Sarah Silva,59,0,0,1,0,0,0,2,2,7,Alterações detectadas - Procure um médico
+60.0,30.0,1.0,4.61,40.7,88.3,25.8,29.2,13.2,10.22,259.0,11.9,Aylla Mendonça,60,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procure um médico
+61.0,15.0,0.0,4.71,35.1,74.5,21.2,28.5,16.4,12.66,263.0,10.0,Théo Vargas,61,0,0,1,0,0,0,2,2,7,Alterações detectadas - Procure um médico
+62.0,13.0,1.0,5.82,45.5,78.2,24.4,31.2,17.2,6.41,153.0,14.2,Dra. Maria Helena Araújo,62,2,2,1,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+63.0,35.0,1.0,4.3,41.5,95.5,30.7,31.8,13.6,6.47,198.0,13.2,Ana Sophia Albuquerque,63,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+64.0,81.0,0.0,3.52,31.0,88.1,27.6,31.3,13.5,15.53,256.0,9.7,Vicente Cassiano,64,0,0,0,1,1,0,1,2,5,Alterações detectadas - Procure um médico
+65.0,18.0,1.0,3.48,21.6,62.1,14.7,23.6,14.75,41.9,444.0,5.0,Dra. Alícia Mendes,65,0,0,0,0,0,0,2,2,8,Alterações detectadas - Procure um médico
+66.0,81.0,1.0,3.52,31.0,88.1,27.6,31.3,13.5,15.53,256.0,9.7,Sra. Brenda Monteiro,66,0,0,0,1,1,0,1,2,5,Alterações detectadas - Procure um médico
+67.0,14.0,0.0,5.09,44.0,86.3,28.2,32.7,14.5,8.4,170.0,14.4,Caleb Guerra,67,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+68.0,32.0,0.0,5.01,46.5,92.8,29.1,31.4,14.0,5.4,150.0,14.6,Gael Henrique Peixoto,68,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+69.0,70.0,1.0,5.36,50.0,93.3,27.6,29.8,13.7,5.89,242.0,14.8,Beatriz Câmara,69,2,2,1,1,1,0,1,1,3,Alterações detectadas - Procure um médico
+70.0,13.0,0.0,4.92,39.7,80.7,26.0,32.2,14.4,4.31,150.0,12.8,Danilo Vieira,70,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procure um médico
+71.0,13.0,0.0,5.24,43.0,82.1,25.4,30.9,13.3,9.15,232.0,13.3,Kevin Souza,71,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procure um médico
+72.0,45.0,0.0,4.81,45.7,95.0,25.6,26.4,14.3,14.0,190.0,13.5,Daniel Jesus,72,1,1,1,1,0,0,1,2,3,Alterações detectadas - Procure um médico
+73.0,17.0,1.0,3.84,32.9,85.7,26.6,31.0,14.2,7.7,266.0,10.2,Evelyn Aragão,73,0,0,0,1,0,0,1,1,5,Alterações detectadas - Procure um médico
+74.0,44.0,1.0,4.9,38.3,78.2,25.9,33.2,13.6,9.1,192.0,12.7,Olivia Vieira,74,1,1,1,0,0,1,1,1,2,Alterações detectadas - Procure um médico
+75.0,27.0,0.0,4.82,43.6,90.5,29.9,33.0,12.2,7.4,150.0,14.4,Ravi Lucca Correia,75,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+76.0,24.0,1.0,4.47,36.0,80.5,25.3,31.1,14.8,8.0,198.0,11.2,Ana Lívia Barbosa,76,1,1,0,1,0,0,2,1,4,Alterações detectadas - Procure um médico
+77.0,59.0,0.0,4.89,36.9,90.2,30.1,33.3,13.7,6.3,167.0,12.3,Benicio Pastor,77,1,0,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+78.0,26.0,1.0,3.5,27.2,77.7,23.1,29.8,17.4,13.2,350.0,8.1,Caroline Moraes,78,0,0,0,0,0,0,2,2,8,Alterações detectadas - Procure um médico
+79.0,25.0,1.0,3.52,35.0,99.9,34.1,34.3,14.8,8.0,341.0,12.0,Brenda Duarte,79,1,0,0,1,2,1,2,1,4,Alterações detectadas - Procure um médico
+80.0,65.0,0.0,4.32,39.3,91.0,29.4,32.3,13.0,6.7,139.0,12.7,Asafe Andrade,80,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+81.0,20.0,0.0,4.87,40.2,82.5,24.4,29.6,17.1,4.48,384.0,11.9,Theodoro Costela,81,0,1,1,1,0,0,2,1,4,Alterações detectadas - Procure um médico
+82.0,32.0,1.0,5.64,35.1,62.2,17.7,28.5,18.0,7.75,152.0,10.0,Raquel Novaes,82,0,0,1,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+83.0,27.0,1.0,4.43,35.0,79.0,24.2,30.6,15.9,7.68,452.0,10.7,Isabella Melo,83,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+84.0,17.0,0.0,6.58,56.9,86.5,29.8,34.4,13.7,7.31,10.0,19.6,Noah Fogaça,84,2,2,2,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+85.0,55.0,0.0,6.9,45.5,65.4,19.4,29.7,17.8,8.4,233.0,13.4,Gabriel Souza,85,1,1,2,0,0,0,2,1,5,Alterações detectadas - Procure um médico
+86.0,35.0,0.0,3.5,35.8,102.3,34.3,33.5,12.9,3.7,252.0,12.0,Henrique Casa Grande,86,1,0,0,2,2,1,1,0,5,Alterações detectadas - Procure um médico
+87.0,55.0,0.0,3.39,29.5,87.0,29.1,31.2,14.6,21.7,129.0,9.2,Guilherme Aragão,87,0,0,0,1,1,0,2,2,6,Alterações detectadas - Procure um médico
+88.0,51.0,0.0,3.81,24.4,64.0,18.9,29.5,15.2,4.8,87.0,7.2,Gael Henrique Sales,88,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+89.0,43.0,0.0,5.18,44.9,86.7,29.0,33.4,13.3,9.3,366.0,15.0,Emanuel Novais,89,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+90.0,33.0,1.0,4.24,33.3,78.5,28.1,35.7,13.6,7.6,217.0,11.9,Srta. Kamilly Pinto,90,1,0,0,0,1,1,1,1,3,Alterações detectadas - Procure um médico
+91.0,34.0,0.0,4.84,45.9,94.8,33.1,34.9,12.5,7.3,306.0,16.0,Vinicius Costela,91,2,1,1,1,2,1,1,1,2,Alterações detectadas - Procure um médico
+92.0,36.0,0.0,4.66,44.6,95.7,33.5,35.0,12.8,7.8,245.0,15.6,Noah Nascimento,92,2,1,1,1,2,1,1,1,2,Alterações detectadas - Procure um médico
+93.0,35.0,0.0,4.57,41.6,91.0,30.9,33.9,14.1,5.5,205.0,14.1,Pietro Souza,93,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+94.0,27.0,0.0,4.23,44.5,105.0,36.6,34.9,12.8,8.4,95.0,15.5,Ravi Lucca Abreu,94,2,1,0,2,2,1,1,1,4,Alterações detectadas - Procure um médico
+95.0,71.0,1.0,2.89,24.9,86.2,27.7,32.1,14.6,4.9,327.0,8.0,Srta. Joana Moura,95,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+96.0,35.0,0.0,3.29,36.5,110.9,34.0,30.7,15.8,5.44,150.0,11.2,Pedro Lucas das Neves,96,0,0,0,2,2,0,2,1,7,Alterações detectadas - Procure um médico
+97.0,35.0,1.0,4.1,38.9,94.9,28.8,30.3,12.7,5.84,166.0,11.8,Isabel Rezende,97,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+98.0,24.0,0.0,4.21,42.6,101.2,32.3,31.9,15.0,7.61,150.0,13.6,João Gabriel Novaes,98,1,1,0,2,1,0,2,1,4,Alterações detectadas - Procure um médico
+99.0,28.0,0.0,4.07,34.8,85.5,26.3,30.7,12.9,7.08,220.0,10.7,Augusto Casa Grande,99,0,0,0,1,0,0,1,1,5,Alterações detectadas - Procure um médico
+100.0,52.0,0.0,4.58,49.1,87.6,28.4,32.4,13.4,9.03,262.0,13.0,Yan Cavalcanti,100,1,2,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+101.0,27.0,1.0,4.43,35.0,79.0,24.2,30.6,15.9,7.68,452.0,10.7,Sra. Yasmin Viana,101,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+102.0,38.0,0.0,4.21,34.8,82.7,26.8,32.5,16.5,10.5,194.0,11.3,João Miguel Gonçalves,102,0,0,0,1,0,1,2,1,5,Alterações detectadas - Procure um médico
+103.0,57.0,0.0,3.51,34.2,97.4,31.9,32.7,15.3,3.1,74.0,11.2,Luan da Rosa,103,0,0,0,1,1,1,2,0,5,Alterações detectadas - Procure um médico
+104.0,74.0,0.0,5.07,43.4,85.6,29.4,34.3,12.9,12.6,157.0,14.9,Arthur Rios,104,1,1,1,1,1,1,1,2,1,Alterações detectadas - Procure um médico
+105.0,32.0,0.0,4.76,40.3,84.7,28.2,33.3,12.9,4.2,140.0,13.4,Dr. Erick Novais,105,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+106.0,27.0,0.0,3.21,26.5,82.6,26.8,32.5,14.0,5.8,373.0,8.6,Ravy Costa,106,0,0,0,1,0,1,1,1,4,Alterações detectadas - Procure um médico
+107.0,70.0,0.0,3.82,34.1,89.3,29.3,32.8,13.2,13.2,211.0,11.2,Lorenzo Pinto,107,0,0,0,1,1,1,1,2,4,Alterações detectadas - Procure um médico
+108.0,55.0,0.0,3.51,30.2,86.0,27.1,31.5,14.8,6.0,158.0,9.5,Benício Caldeira,108,0,0,0,1,1,0,2,1,5,Alterações detectadas - Procure um médico
+109.0,38.0,0.0,4.32,43.2,100.0,35.2,35.2,15.8,5.6,334.0,15.2,Ravy Silva,109,2,1,0,1,2,1,2,1,4,Alterações detectadas - Procure um médico
+110.0,62.0,1.0,4.74,33.8,71.3,21.9,30.8,15.2,4.4,152.0,10.4,Yasmin Fonseca,110,0,0,1,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+111.0,72.0,0.0,3.59,30.8,85.8,30.4,35.4,12.9,9.6,155.0,10.9,Fernando Martins,111,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+112.0,58.0,0.0,6.05,48.1,79.5,26.3,33.1,14.3,17.5,185.0,15.9,Noah Rios,112,2,1,2,0,0,1,1,2,5,Alterações detectadas - Procure um médico
+113.0,57.0,0.0,3.37,33.4,99.1,31.5,31.7,15.7,3.1,78.0,10.6,Dr. Augusto Casa Grande,113,0,0,0,1,1,0,2,0,6,Alterações detectadas - Procure um médico
+114.0,40.0,0.0,4.46,36.8,82.5,30.0,36.4,12.6,5.7,32.0,13.4,Antony Lopes,114,1,0,0,1,1,2,1,1,3,Alterações detectadas - Procure um médico
+115.0,65.0,0.0,3.9,37.0,94.9,30.8,32.4,14.5,10.6,275.0,12.0,Marcelo da Rosa,115,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+116.0,63.0,1.0,4.4,34.0,77.3,24.5,31.8,14.4,9.1,206.0,10.8,Sra. Aylla Nogueira,116,0,0,0,0,0,0,1,1,6,Alterações detectadas - Procure um médico
+117.0,40.0,0.0,4.16,35.8,86.1,29.6,34.4,13.9,4.4,115.0,12.3,João Vitor Camargo,117,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+118.0,43.0,1.0,3.17,31.6,99.7,32.5,32.6,16.4,5.9,120.0,10.3,Srta. Maria Liz Pereira,118,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+119.0,65.0,0.0,3.92,37.1,94.6,31.1,32.9,14.3,11.7,180.0,12.2,Joaquim Aparecida,119,1,0,0,1,1,1,1,2,3,Alterações detectadas - Procure um médico
+120.0,58.0,0.0,5.17,41.6,80.5,26.5,32.9,14.8,8.4,120.0,13.7,João Felipe da Rosa,120,1,1,1,1,0,1,2,1,2,Alterações detectadas - Procure um médico
+121.0,57.0,0.0,4.5,43.2,96.0,29.1,30.3,18.0,6.09,140.0,13.1,Leandro das Neves,121,1,1,1,1,1,0,2,1,2,Alterações detectadas - Procure um médico
+122.0,15.0,1.0,3.58,36.8,102.8,28.5,27.7,16.2,8.67,272.0,10.2,Sabrina Ribeiro,122,0,1,0,2,1,0,2,1,5,Alterações detectadas - Procure um médico
+123.0,49.0,0.0,4.79,43.0,89.8,26.8,32.1,13.1,5.44,267.0,13.8,Francisco Araújo,123,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procure um médico
+124.0,42.0,1.0,4.22,35.5,84.1,27.3,32.4,13.1,6.5,222.0,11.5,Srta. Isabela Ferreira,124,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+125.0,22.0,0.0,5.19,47.4,91.3,29.1,31.9,20.9,10.24,154.0,15.1,Dr. Anthony Sales,125,2,1,1,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+126.0,28.0,1.0,3.96,28.5,72.0,19.7,27.4,20.1,8.49,268.0,7.8,Sra. Eloá Guerra,126,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+127.0,52.0,0.0,4.54,43.5,95.8,29.7,31.0,14.7,8.68,214.0,13.5,Rafael Teixeira,127,1,1,1,1,1,0,2,1,2,Alterações detectadas - Procure um médico
+128.0,22.0,1.0,2.77,32.5,117.3,37.2,31.7,16.7,5.53,122.0,10.3,Sra. Isadora da Paz,128,0,0,0,2,2,0,2,1,7,Alterações detectadas - Procure um médico
+129.0,11.0,0.0,4.86,39.6,81.5,26.7,32.8,13.4,4.99,249.0,13.0,Caio Barros,129,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procure um médico
+130.0,48.0,0.0,4.74,41.5,87.6,27.2,31.1,13.1,6.83,135.0,12.9,Antônio Montenegro,130,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+131.0,35.0,1.0,4.1,38.6,94.9,26.8,30.3,12.7,5.84,165.0,11.8,Alícia Teixeira,131,1,1,0,1,0,0,1,1,3,Alterações detectadas - Procure um médico
+132.0,60.0,0.0,4.56,38.0,83.3,26.1,31.3,14.9,7.73,241.0,11.9,Henry Gabriel Ribeiro,132,0,0,1,1,0,0,2,1,5,Alterações detectadas - Procure um médico
+133.0,30.0,1.0,3.87,35.3,91.2,28.7,31.4,15.5,8.92,183.0,11.1,Alícia Costa,133,1,0,0,1,1,0,2,1,4,Alterações detectadas - Procure um médico
+134.0,40.0,1.0,4.45,35.5,79.8,24.3,30.4,17.4,9.01,188.0,10.8,Ana Laura Fernandes,134,0,1,0,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+135.0,35.0,0.0,4.64,40.5,87.3,28.7,32.8,12.8,8.98,226.0,13.3,Arthur Miguel Siqueira,135,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+136.0,60.0,1.0,4.12,38.5,93.4,28.9,30.9,14.6,11.83,214.0,11.9,Stephany Nunes,136,1,1,0,1,1,0,2,2,4,Alterações detectadas - Procure um médico
+137.0,34.0,1.0,3.73,28.9,77.5,23.1,29.8,16.1,9.39,258.0,8.6,Aurora Ramos,137,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+138.0,16.0,1.0,3.47,32.9,94.8,28.5,30.1,15.1,32.72,357.0,9.9,Pietra Aparecida,138,0,0,0,1,1,0,2,2,6,Alterações detectadas - Procure um médico
+139.0,35.0,1.0,4.53,37.3,82.3,23.8,29.0,16.9,8.85,348.0,10.8,Juliana Costa,139,0,1,1,1,0,0,2,1,4,Alterações detectadas - Procure um médico
+140.0,52.0,0.0,4.54,43.5,95.8,29.7,31.0,14.7,8.68,214.0,13.5,Oliver Rezende,140,1,1,1,1,1,0,2,1,2,Alterações detectadas - Procure um médico
+141.0,42.0,1.0,4.22,35.5,84.1,27.3,32.4,13.1,6.5,222.0,11.5,Laura Sá,141,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+142.0,48.0,0.0,4.47,41.5,87.6,27.2,31.1,13.1,6.83,135.0,12.9,Dr. Erick Vasconcelos,142,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+143.0,50.0,1.0,2.88,30.0,104.2,31.6,30.3,15.3,7.9,497.0,9.1,Bianca Fernandes,143,0,0,0,2,1,0,2,1,6,Alterações detectadas - Procure um médico
+144.0,38.0,1.0,3.96,36.2,91.4,27.5,30.1,14.7,10.25,317.0,10.9,Melina Silveira,144,0,1,0,1,1,0,2,1,4,Alterações detectadas - Procure um médico
+145.0,78.0,0.0,4.21,26.6,63.2,18.6,26.3,21.3,5.31,365.0,7.0,Dr. Carlos Eduardo Jesus,145,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+146.0,30.0,0.0,4.1,34.6,84.4,27.6,32.7,13.0,5.64,134.0,11.3,Otávio das Neves,146,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+147.0,60.0,0.0,5.39,46.5,86.3,26.2,30.3,15.2,8.26,130.0,14.1,Davi Miguel Moreira,147,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+148.0,35.0,1.0,4.1,38.9,94.9,28.8,30.3,12.7,5.84,165.0,11.8,Sra. Ana Beatriz Vargas,148,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+149.0,30.0,0.0,4.95,43.6,88.1,26.9,30.5,14.0,7.38,198.0,13.3,Bento Macedo,149,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procure um médico
+150.0,38.0,0.0,3.85,43.8,113.8,34.8,30.6,18.2,7.06,140.0,13.4,Benjamin Novaes,150,1,1,0,2,2,0,2,1,5,Alterações detectadas - Procure um médico
+151.0,28.0,0.0,2.26,26.9,119.0,41.2,34.6,15.6,5.27,222.0,9.3,Sr. Igor Moura,151,0,0,0,2,2,1,2,1,6,Alterações detectadas - Procure um médico
+152.0,14.0,0.0,4.97,43.8,88.1,28.0,31.7,15.2,3.92,229.0,13.9,Mathias Sousa,152,1,1,1,1,1,0,2,0,3,Alterações detectadas - Procure um médico
+153.0,24.0,0.0,2.89,20.0,100.3,33.2,31.1,16.5,7.6,207.0,9.6,Lucas Gabriel Montenegro,153,0,0,0,2,2,0,2,1,7,Alterações detectadas - Procure um médico
+154.0,38.0,0.0,3.36,37.6,111.2,39.1,35.1,16.7,7.2,150.0,13.2,Lorenzo Ferreira,154,1,0,0,2,2,1,2,1,5,Alterações detectadas - Procure um médico
+155.0,80.0,1.0,2.96,25.0,84.5,27.4,32.4,17.4,16.9,127.0,8.1,Maria Liz Jesus,155,0,0,0,1,1,1,2,2,5,Alterações detectadas - Procure um médico
+156.0,78.0,1.0,3.34,29.7,88.9,30.8,34.7,15.4,4.9,24.0,10.3,Emanuelly da Mata,156,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+157.0,54.0,1.0,2.55,24.0,94.1,31.8,33.8,16.7,3.4,112.0,8.1,Antonella Barbosa,157,0,0,0,1,1,1,2,0,5,Alterações detectadas - Procure um médico
+158.0,26.0,0.0,4.19,36.8,87.8,30.3,34.5,14.5,5.2,52.0,12.7,Pedro Gonçalves,158,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+159.0,24.0,1.0,3.74,33.2,88.8,29.4,33.1,16.7,5.5,36.0,11.0,Camila Câmara,159,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+160.0,57.0,0.0,3.18,29.9,94.0,30.5,32.4,15.5,2.0,84.0,9.7,Vicente Dias,160,0,0,0,1,1,1,2,0,5,Alterações detectadas - Procure um médico
+161.0,78.0,1.0,2.71,23.8,87.8,29.5,33.6,15.0,4.3,32.0,8.0,Sarah Cunha,161,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+162.0,13.0,0.0,4.42,37.1,83.9,27.8,33.2,13.9,8.8,47.0,12.3,João Lucas Barros,162,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+163.0,65.0,1.0,2.53,23.3,92.1,30.0,33.0,15.0,6.5,90.0,7.7,Ana Carolina Machado,163,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+164.0,24.0,1.0,3.53,26.4,85.4,30.2,32.4,14.2,6.3,221.0,10.6,Heloísa Souza,164,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+165.0,27.0,1.0,3.41,32.6,88.2,29.5,33.1,14.8,8.1,210.0,10.2,Anna Liz Cardoso,165,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+166.0,23.0,1.0,3.54,32.8,87.3,27.6,33.4,15.7,5.1,215.0,10.3,Joana Nunes,166,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+167.0,22.0,1.0,3.33,26.9,92.3,30.4,32.6,14.7,6.83,252.0,9.9,Ana Luiza Barros,167,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+168.0,28.0,0.0,3.44,33.2,88.9,36.7,33.6,16.3,8.9,223.0,10.2,Caio Santos,168,0,0,0,1,2,1,2,1,5,Alterações detectadas - Procure um médico
+169.0,47.0,0.0,4.18,32.5,89.2,28.5,33.1,15.4,6.3,162.0,12.4,Kevin Rios,169,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+170.0,54.0,0.0,3.63,33.2,89.2,30.4,33.4,15.4,5.1,216.0,12.5,Brayan Pereira,170,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+171.0,65.0,0.0,4.71,33.1,90.7,29.6,32.7,16.2,9.6,148.0,13.6,Matteo Câmara,171,1,0,1,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+172.0,50.0,0.0,5.5,33.5,85.0,27.0,32.0,15.9,4.7,102.0,14.6,Henry Cassiano,172,1,0,1,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+173.0,17.0,1.0,3.7,32.9,73.3,24.2,33.1,16.3,4.7,89.0,11.2,Srta. Agatha Almeida,173,1,0,0,0,0,1,2,1,5,Alterações detectadas - Procure um médico
+174.0,24.0,1.0,3.48,33.2,87.2,30.2,33.2,15.7,4.4,84.0,13.9,Manuela da Luz,174,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+175.0,46.0,1.0,4.86,33.1,74.7,23.6,31.5,16.1,6.3,258.0,11.0,Mariana Cunha,175,1,0,1,0,0,0,2,1,5,Alterações detectadas - Procure um médico
+176.0,35.0,0.0,4.75,33.4,89.2,28.9,32.2,15.6,8.4,157.0,13.2,Lucas Gabriel Sampaio,176,1,0,1,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+177.0,47.0,0.0,4.73,33.1,88.3,29.6,33.5,16.1,8.1,252.0,13.0,Enzo Gabriel Abreu,177,1,0,1,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+178.0,62.0,0.0,4.68,33.7,100.7,30.4,38.2,16.3,6.6,131.0,14.2,Luiz Miguel Pereira,178,1,0,1,2,1,2,2,1,4,Alterações detectadas - Procure um médico
+179.0,40.0,1.0,3.48,32.8,103.5,34.2,33.0,16.1,7.2,246.0,11.5,Vitória Vasconcelos,179,1,0,0,2,2,1,2,1,5,Alterações detectadas - Procure um médico
+180.0,37.0,0.0,4.87,33.5,77.7,24.7,31.8,15.9,8.6,417.0,11.2,Isaac Costela,180,0,0,1,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+181.0,38.0,0.0,4.74,33.1,84.7,28.4,31.1,16.2,9.2,191.0,13.8,Nicolas Farias,181,1,0,1,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+182.0,12.0,0.0,4.47,31.3,90.3,30.4,33.7,16.0,3.0,103.0,11.2,Diogo Cavalcante,182,0,0,0,1,1,1,2,0,5,Alterações detectadas - Procure um médico
+183.0,29.0,0.0,4.18,30.9,89.8,30.4,33.9,16.2,5.2,153.0,12.1,Bruno da Mota,183,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+184.0,50.0,1.0,4.33,29.6,88.9,30.5,33.9,15.7,6.2,168.0,12.6,Stephany da Conceição,184,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+185.0,27.0,1.0,4.86,33.1,82.2,27.8,33.9,16.3,6.6,282.0,12.5,Agatha Martins,185,1,0,1,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+186.0,62.0,0.0,5.59,33.5,80.8,26.6,32.9,16.0,12.2,197.0,13.9,Brayan Vasconcelos,186,1,0,1,1,0,1,2,2,4,Alterações detectadas - Procure um médico
+187.0,36.0,1.0,4.55,30.9,89.1,31.3,34.3,15.7,9.1,253.0,13.8,Sra. Isabel Leão,187,1,0,1,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+188.0,28.0,0.0,4.38,33.1,94.2,34.2,41.0,16.1,7.3,185.0,13.8,Sr. Anthony Gabriel Fogaça,188,1,0,0,1,2,2,2,1,5,Alterações detectadas - Procure um médico
+189.0,60.0,1.0,4.53,38.3,82.7,24.2,29.2,16.4,11.66,311.0,11.2,Dra. Ana Vitória Dias,189,1,1,1,1,0,0,2,2,4,Alterações detectadas - Procure um médico
+190.0,60.0,0.0,4.18,37.3,89.2,27.0,30.3,15.0,19.51,140.0,11.3,Thales Pastor,190,0,0,0,1,1,0,2,2,6,Alterações detectadas - Procure um médico
+191.0,48.0,1.0,4.52,40.8,88.3,27.3,30.3,16.9,9.09,392.0,12.6,Raquel Campos,191,1,1,1,1,1,0,2,1,2,Alterações detectadas - Procure um médico
+192.0,80.0,0.0,3.78,38.0,100.5,29.1,28.9,15.5,8.19,151.0,11.0,Dr. Ryan Vasconcelos,192,0,0,0,2,1,0,2,1,6,Alterações detectadas - Procure um médico
+193.0,55.0,1.0,4.65,39.8,85.6,25.6,29.9,14.7,17.27,449.0,11.9,Allana Borges,193,1,1,1,1,0,0,2,2,4,Alterações detectadas - Procure um médico
+194.0,25.0,1.0,4.11,31.7,77.1,23.1,30.0,17.8,6.49,176.0,9.5,Heloísa Moreira,194,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+195.0,31.0,0.0,4.46,44.9,100.7,33.6,33.4,14.7,8.45,152.0,15.0,Arthur Camargo,195,1,1,0,2,2,1,2,1,4,Alterações detectadas - Procure um médico
+196.0,72.0,0.0,4.91,44.1,89.8,28.3,31.5,14.1,8.76,266.0,13.9,Sr. Arthur Silveira,196,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+197.0,32.0,0.0,4.4,41.8,95.0,29.8,31.3,14.2,5.71,105.0,13.1,João Felipe Souza,197,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+198.0,21.0,1.0,4.03,35.1,87.1,27.0,31.1,14.6,10.8,289.0,10.9,Mariane Pires,198,0,0,0,1,1,0,2,1,5,Alterações detectadas - Procure um médico
+199.0,16.0,0.0,5.04,42.7,84.7,27.0,31.9,14.2,7.11,150.0,13.6,Enrico Mendonça,199,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+200.0,53.0,0.0,4.16,38.8,93.3,29.1,31.2,13.3,10.3,166.0,12.1,João Guilherme Borges,200,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+201.0,38.0,1.0,4.61,39.1,84.8,26.7,31.5,12.9,9.34,195.0,12.3,Marina Correia,201,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procure um médico
+202.0,30.0,0.0,5.31,44.3,83.4,26.2,31.4,15.6,12.05,275.0,13.9,Thomas Cirino,202,1,1,1,1,0,0,2,2,4,Alterações detectadas - Procure um médico
+203.0,60.0,0.0,5.13,45.2,88.1,27.7,31.4,13.6,10.58,499.0,14.2,Vitor Gabriel Sousa,203,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+204.0,45.0,1.0,4.33,42.3,97.7,28.9,29.6,15.4,13.5,352.0,12.5,Eduarda Borges,204,1,1,0,1,1,0,2,2,4,Alterações detectadas - Procure um médico
+205.0,65.0,0.0,4.55,40.4,88.8,28.8,32.4,13.9,4.5,153.0,13.1,Sr. Mateus Siqueira,205,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+206.0,20.0,0.0,4.62,43.2,93.5,29.7,31.7,15.9,4.29,152.0,13.7,Caio Peixoto,206,1,1,1,1,1,0,2,1,2,Alterações detectadas - Procure um médico
+207.0,32.0,1.0,4.54,38.5,84.8,25.1,29.6,16.4,7.08,154.0,11.4,Maria Flor das Neves,207,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+208.0,75.0,0.0,5.89,52.2,88.6,25.8,29.1,15.7,26.95,240.0,15.2,João Gabriel Barros,208,2,2,1,1,0,0,2,2,6,Alterações detectadas - Procure um médico
+209.0,29.0,0.0,4.78,42.8,89.5,27.4,30.6,14.3,6.4,170.0,13.1,Benjamim da Luz,209,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+210.0,70.0,1.0,4.15,36.7,88.4,26.3,29.7,15.2,9.09,230.0,10.9,Maria Eduarda Rocha,210,0,1,0,1,0,0,2,1,5,Alterações detectadas - Procure um médico
+211.0,66.0,0.0,4.57,39.9,87.3,27.1,31.1,14.2,7.05,257.0,12.4,Gabriel Santos,211,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+212.0,70.0,1.0,4.76,42.8,89.9,28.4,31.5,12.1,8.71,242.0,13.5,Maria Liz Machado,212,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+213.0,16.0,0.0,4.93,42.1,85.4,27.0,31.6,14.0,6.01,157.0,13.3,Diogo Barbosa,213,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+214.0,40.0,1.0,2.97,29.1,98.0,31.6,32.3,21.3,10.31,179.0,9.4,Eloah Leão,214,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+215.0,38.0,1.0,4.58,36.4,77.3,22.7,29.4,16.1,7.09,193.0,10.4,Marina Freitas,215,0,1,1,0,0,0,2,1,5,Alterações detectadas - Procure um médico
+216.0,38.0,1.0,4.61,39.1,84.8,26.7,31.5,12.9,9.34,196.0,12.3,Mirella Fogaça,216,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procure um médico
+217.0,16.0,0.0,5.04,42.7,84.7,27.0,31.8,14.2,7.11,150.0,13.6,Antony Aparecida,217,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+218.0,62.0,0.0,2.26,16.7,73.8,37.1,50.2,15.6,16.2,181.0,8.4,Luiz Otávio Correia,218,0,0,0,0,2,2,2,2,8,Alterações detectadas - Procure um médico
+219.0,87.0,0.0,3.78,31.5,83.5,31.7,35.0,13.8,4.7,178.0,12.0,André Souza,219,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+220.0,54.0,1.0,4.05,33.5,82.6,31.4,38.0,13.9,13.0,433.0,12.7,Ester Machado,220,1,0,0,1,1,2,1,2,4,Alterações detectadas - Procure um médico
+221.0,72.0,1.0,1.91,13.1,68.4,22.2,32.5,18.2,7.8,216.0,4.2,Srta. Clarice da Paz,221,0,0,0,0,0,1,2,1,6,Alterações detectadas - Procure um médico
+222.0,65.0,1.0,3.96,29.9,80.9,30.5,37.7,16.1,5.4,301.0,11.3,Hellena Pastor,222,1,0,0,1,1,2,2,1,4,Alterações detectadas - Procure um médico
+223.0,61.0,0.0,3.94,32.9,83.6,31.5,37.7,13.6,15.3,247.0,12.4,Rafael Nogueira,223,1,0,0,1,1,2,1,2,4,Alterações detectadas - Procure um médico
+224.0,70.0,0.0,6.05,33.6,55.7,21.3,38.3,17.4,10.2,169.0,12.9,Arthur Andrade,224,1,0,2,0,0,2,2,1,6,Alterações detectadas - Procure um médico
+225.0,52.0,0.0,4.09,33.6,82.3,32.5,39.6,12.3,4.5,242.0,13.3,Gabriel Santos,225,1,0,0,1,1,2,1,1,3,Alterações detectadas - Procure um médico
+226.0,55.0,1.0,4.14,34.3,82.8,31.5,38.0,13.9,3.5,100.0,13.0,Dra. Maria Sophia Barros,226,1,0,0,1,1,2,1,0,4,Alterações detectadas - Procure um médico
+227.0,60.0,0.0,3.65,31.4,86.0,33.3,38.8,12.2,5.2,261.0,12.2,Dr. João Pedro Borges,227,1,0,0,1,2,2,1,1,4,Alterações detectadas - Procure um médico
+228.0,33.0,1.0,3.84,33.6,87.4,33.4,38.3,12.4,4.3,202.0,12.8,Anna Liz Freitas,228,1,0,0,1,2,2,1,1,4,Alterações detectadas - Procure um médico
+229.0,57.0,1.0,4.29,31.5,73.4,27.7,37.7,13.6,5.7,80.0,11.9,Daniela Guerra,229,1,0,0,0,1,2,1,1,4,Alterações detectadas - Procure um médico
+230.0,35.0,0.0,4.8,39.4,82.0,31.4,38.3,13.8,5.3,70.0,15.1,Gael Cavalcante,230,2,1,1,1,1,2,1,1,2,Alterações detectadas - Procure um médico
+231.0,73.0,1.0,1.91,13.1,68.4,22.2,32.5,18.2,7.8,216.0,4.2,Olivia da Luz,231,0,0,0,0,0,1,2,1,6,Alterações detectadas - Procure um médico
+232.0,57.0,0.0,3.92,33.1,84.5,31.5,37.3,13.7,4.5,191.0,12.3,Ryan Almeida,232,1,0,0,1,1,2,1,1,3,Alterações detectadas - Procure um médico
+233.0,58.0,0.0,4.33,31.7,73.3,28.4,38.7,15.3,8.9,461.0,12.3,Asafe Pereira,233,1,0,0,0,1,2,2,1,5,Alterações detectadas - Procure um médico
+234.0,71.0,0.0,2.83,25.0,88.5,34.4,38.9,15.9,13.0,280.0,9.7,Dr. Otto Moreira,234,0,0,0,1,2,2,2,2,7,Alterações detectadas - Procure um médico
+235.0,62.0,0.0,4.3,37.8,87.8,32.2,36.7,12.9,19.3,385.0,13.9,Emanuel Castro,235,1,0,0,1,1,2,1,2,4,Alterações detectadas - Procure um médico
+236.0,65.0,0.0,4.7,41.3,87.9,27.4,31.2,14.1,9.87,281.0,12.9,Dr. Felipe Fernandes,236,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+237.0,65.0,0.0,5.81,49.6,85.4,25.5,29.8,15.3,8.36,212.0,14.8,João Vitor Pinto,237,1,2,1,1,0,0,2,1,4,Alterações detectadas - Procure um médico
+238.0,74.0,0.0,4.13,40.2,97.3,30.5,31.3,15.3,8.54,276.0,12.6,Augusto Cirino,238,1,1,0,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+239.0,75.0,0.0,5.55,49.5,89.2,25.8,28.9,14.9,22.9,151.0,14.3,João Gabriel Rodrigues,239,1,2,1,1,0,0,2,2,5,Alterações detectadas - Procure um médico
+240.0,57.0,0.0,5.5,49.6,90.2,28.9,32.1,13.8,13.35,373.0,15.9,Lorenzo da Costa,240,2,2,1,1,1,1,1,2,3,Alterações detectadas - Procure um médico
+241.0,65.0,0.0,4.76,41.8,87.8,28.2,32.1,12.6,7.56,276.0,13.4,Dr. Caio Cavalcanti,241,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+242.0,69.0,1.0,5.34,43.4,81.3,24.5,30.2,14.8,7.15,233.0,13.1,Mariah Aparecida,242,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+243.0,48.0,0.0,5.44,47.2,86.8,27.2,31.4,14.8,13.85,303.0,14.8,Isaac Costela,243,1,1,1,1,1,0,2,2,3,Alterações detectadas - Procure um médico
+244.0,69.0,0.0,4.34,47.3,109.0,33.2,30.4,16.2,14.83,153.0,14.4,Renan da Mota,244,1,1,0,2,2,0,2,2,6,Alterações detectadas - Procure um médico
+245.0,57.0,0.0,5.5,49.6,90.2,28.9,32.1,13.8,13.35,373.0,15.9,Dr. Mateus Ferreira,245,2,2,1,1,1,1,1,2,3,Alterações detectadas - Procure um médico
+246.0,75.0,0.0,5.55,49.5,89.2,25.8,28.9,14.9,22.9,151.0,14.3,Sr. Gustavo Henrique Nunes,246,1,2,1,1,0,0,2,2,5,Alterações detectadas - Procure um médico
+247.0,65.0,1.0,3.17,27.9,88.0,28.4,32.3,13.9,9.55,166.0,9.0,Sophie Melo,247,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+248.0,22.0,1.0,3.12,28.8,92.3,26.9,29.2,21.0,3.62,130.0,8.4,Ana Laura Moreira,248,0,0,0,1,0,0,2,0,7,Alterações detectadas - Procure um médico
+249.0,35.0,1.0,3.94,29.2,74.1,19.8,26.7,18.7,7.21,152.0,7.8,Ana Luiza Pacheco,249,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+250.0,47.0,0.0,3.75,31.3,83.5,24.5,29.4,16.5,9.01,392.0,9.2,Lucca Rios,250,0,0,0,1,0,0,2,1,6,Alterações detectadas - Procure um médico
+251.0,49.0,0.0,3.24,40.2,124.1,41.4,33.3,15.2,10.1,237.0,13.4,Dr. Otávio da Rosa,251,1,1,0,2,2,1,2,1,4,Alterações detectadas - Procure um médico
+252.0,35.0,1.0,5.33,31.2,58.5,15.8,26.9,19.1,5.9,248.0,8.4,Maria Helena Rezende,252,0,0,1,0,0,0,2,1,6,Alterações detectadas - Procure um médico
+253.0,30.0,1.0,3.41,31.3,91.8,27.8,30.4,14.6,8.18,153.0,9.5,Sra. Stephany da Costa,253,0,0,0,1,1,0,2,1,5,Alterações detectadas - Procure um médico
+254.0,55.0,1.0,4.77,39.0,81.8,24.1,29.5,15.9,8.09,238.0,11.5,Maria Cecília Moraes,254,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+255.0,50.0,1.0,4.11,35.6,86.6,26.8,30.9,15.9,5.82,130.0,11.0,Maria Laura Machado,255,1,1,0,1,0,0,2,1,4,Alterações detectadas - Procure um médico
+256.0,72.0,0.0,4.35,42.3,97.2,30.8,31.7,13.1,11.22,158.0,13.4,Brayan Ramos,256,1,1,0,1,1,0,1,2,3,Alterações detectadas - Procure um médico
+257.0,70.0,1.0,3.7,34.8,94.1,31.4,33.3,12.6,28.03,285.0,11.6,Maria Julia da Cunha,257,1,0,0,1,1,1,1,2,3,Alterações detectadas - Procure um médico
+258.0,27.0,1.0,4.41,37.0,83.9,24.9,29.7,16.3,8.6,298.0,11.0,Sra. Gabrielly Melo,258,1,1,0,1,0,0,2,1,4,Alterações detectadas - Procure um médico
+259.0,58.0,0.0,4.92,44.5,90.4,27.0,29.9,17.3,11.06,125.0,13.3,Diego Cassiano,259,1,1,1,1,1,0,2,2,3,Alterações detectadas - Procure um médico
+260.0,80.0,0.0,4.92,47.3,96.1,30.1,31.3,13.9,13.41,152.0,14.8,Renan Martins,260,1,1,1,1,1,0,1,2,2,Alterações detectadas - Procure um médico
+261.0,50.0,0.0,4.54,43.1,94.9,28.6,30.2,12.9,23.57,239.0,13.0,Mathias Nogueira,261,1,1,1,1,1,0,1,2,2,Alterações detectadas - Procure um médico
+262.0,45.0,0.0,5.39,45.2,83.9,26.7,31.9,14.9,13.1,377.0,14.4,Brayan Porto,262,1,1,1,1,0,0,2,2,4,Alterações detectadas - Procure um médico
+263.0,65.0,1.0,3.95,35.6,90.1,27.3,30.3,13.1,10.97,532.0,10.8,Joana Costa,263,0,1,0,1,1,0,1,1,3,Alterações detectadas - Procure um médico
+264.0,65.0,1.0,3.34,30.5,91.3,26.9,29.5,14.6,6.55,153.0,9.0,Letícia Nascimento,264,0,0,0,1,0,0,2,1,6,Alterações detectadas - Procure um médico
+265.0,33.0,0.0,5.03,42.4,84.3,25.8,30.4,14.6,6.01,230.0,12.9,Sr. Yago Novais,265,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+266.0,65.0,0.0,5.55,51.7,93.2,27.9,30.0,15.8,12.8,188.0,15.5,Gael Rocha,266,2,2,1,1,1,0,2,2,5,Alterações detectadas - Procure um médico
+267.0,50.0,1.0,5.46,43.3,79.3,23.4,29.6,18.6,11.57,332.0,12.8,Luara Pastor,267,1,1,1,0,0,0,2,2,5,Alterações detectadas - Procure um médico
+268.0,60.0,0.0,4.65,43.7,94.0,28.8,30.7,13.1,23.36,272.0,13.4,Murilo Araújo,268,1,1,1,1,1,0,1,2,2,Alterações detectadas - Procure um médico
+269.0,30.0,1.0,4.48,42.1,94.0,28.8,30.6,14.6,7.12,247.0,12.9,Lavínia Ribeiro,269,1,1,0,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+270.0,36.0,0.0,4.71,40.3,85.6,25.7,30.0,14.9,5.02,321.0,12.1,Cauã Brito,270,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+271.0,42.0,1.0,3.68,34.4,89.1,27.2,30.5,14.2,8.09,154.0,10.5,Esther Moreira,271,0,0,0,1,1,0,1,1,4,Alterações detectadas - Procure um médico
+272.0,68.0,0.0,4.34,37.0,85.3,26.7,31.4,13.6,12.49,367.0,11.8,Joaquim Machado,272,0,0,0,1,0,0,1,2,6,Alterações detectadas - Procure um médico
+273.0,65.0,1.0,3.67,33.3,90.7,27.8,30.6,16.8,7.77,298.0,10.2,Joana Rios,273,0,0,0,1,1,0,2,1,5,Alterações detectadas - Procure um médico
+274.0,57.0,0.0,3.92,35.8,91.3,30.4,33.2,11.8,12.97,235.0,11.9,Sr. Bernardo Rodrigues,274,0,0,0,1,1,1,1,2,4,Alterações detectadas - Procure um médico
+275.0,63.0,0.0,5.53,46.2,83.5,25.1,30.1,15.3,7.97,186.0,13.9,Ian Cunha,275,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+276.0,18.0,1.0,4.05,30.5,75.3,21.0,27.9,21.2,12.69,534.0,8.5,Srta. Brenda Mendes,276,0,0,0,0,0,0,2,2,8,Alterações detectadas - Procure um médico
+277.0,25.0,1.0,4.86,42.0,86.4,26.5,30.7,13.7,8.13,353.0,12.9,Sra. Lívia Costa,277,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procure um médico
+278.0,65.0,1.0,4.36,39.7,91.1,26.1,28.7,13.9,42.42,167.0,11.4,Anna Liz Aragão,278,1,1,0,1,0,0,1,2,4,Alterações detectadas - Procure um médico
+279.0,24.0,0.0,5.17,47.4,91.7,28.2,30.8,13.2,8.27,251.0,14.6,Gael da Mota,279,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+280.0,62.0,0.0,3.34,27.4,81.9,32.3,39.4,13.6,6.9,105.0,10.8,Cauã Rios,280,0,0,0,1,1,2,1,1,4,Alterações detectadas - Procure um médico
+281.0,14.0,1.0,4.19,34.2,81.6,30.6,37.5,14.2,6.97,271.0,12.8,Antonella Novais,281,1,0,0,1,1,2,1,1,3,Alterações detectadas - Procure um médico
+282.0,46.0,0.0,3.68,31.5,88.4,35.6,34.1,11.3,5.9,183.0,12.9,Anthony Borges,282,1,0,0,1,2,1,0,1,4,Alterações detectadas - Procure um médico
+283.0,72.0,0.0,3.51,27.4,78.2,29.9,38.2,15.1,12.7,291.0,10.5,Davi Miguel Alves,283,0,0,0,0,1,2,2,2,7,Alterações detectadas - Procure um médico
+284.0,66.0,0.0,4.12,27.4,81.5,31.7,38.8,13.6,11.6,172.0,13.0,Pedro Lucas Albuquerque,284,1,0,0,1,1,2,1,2,4,Alterações detectadas - Procure um médico
+285.0,62.0,0.0,4.14,36.7,88.5,33.4,37.6,16.8,5.7,262.0,13.6,Raul Fernandes,285,1,0,0,1,2,2,2,1,5,Alterações detectadas - Procure um médico
+286.0,48.0,0.0,5.8,49.5,88.4,27.0,30.5,15.1,11.31,282.0,15.1,Yan Pimenta,286,2,2,1,1,1,0,2,2,5,Alterações detectadas - Procure um médico
+287.0,30.0,0.0,4.8,43.4,90.4,28.8,31.8,12.7,6.1,200.0,13.8,Marcelo Viana,287,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+288.0,45.0,1.0,4.1,36.0,87.8,27.1,30.8,14.6,14.85,267.0,11.1,Ísis Pires,288,1,1,0,1,1,0,2,2,4,Alterações detectadas - Procure um médico
+289.0,58.0,0.0,4.03,31.3,77.7,24.3,31.3,10.6,9.7,150.0,9.8,Lorenzo Sampaio,289,0,0,0,0,0,0,0,1,7,Alterações detectadas - Procure um médico
+290.0,58.0,0.0,4.01,32.9,82.0,30.1,36.7,12.7,4.8,130.0,12.0,Diogo Pimenta,290,1,0,0,1,1,2,1,1,3,Alterações detectadas - Procure um médico
+291.0,47.0,1.0,4.11,29.3,71.4,25.5,35.7,18.0,8.4,253.0,10.3,Luísa Lopes,291,0,0,0,0,0,1,2,1,6,Alterações detectadas - Procure um médico
+292.0,60.0,1.0,4.21,37.4,88.8,28.1,29.4,18.3,7.53,257.0,11.0,Sarah Pastor,292,1,1,0,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+293.0,73.0,1.0,4.03,39.7,98.5,28.8,29.2,14.9,10.63,336.0,11.6,Isis Rios,293,1,1,0,1,1,0,2,1,3,Alterações detectadas - Procure um médico
+294.0,44.0,0.0,5.0,44.6,89.2,26.2,29.4,15.0,8.23,320.0,12.1,Liam Barbosa,294,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+295.0,14.0,0.0,4.79,40.8,85.2,25.3,29.7,13.2,8.94,265.0,12.1,José Pastor,295,1,1,1,1,0,0,1,1,2,Alterações detectadas - Procure um médico
+296.0,50.0,1.0,4.98,43.3,86.9,25.3,29.1,19.9,12.93,244.0,12.6,Marina Mendonça,296,1,1,1,1,0,0,2,2,4,Alterações detectadas - Procure um médico
+297.0,55.0,1.0,4.02,34.2,85.1,24.4,28.7,15.5,4.29,176.0,9.8,Lara Lopes,297,0,0,0,1,0,0,2,1,6,Alterações detectadas - Procure um médico
+298.0,83.0,1.0,2.94,28.1,95.6,40.1,42.0,16.0,9.9,188.0,11.8,Luna Freitas,298,1,0,0,1,2,2,2,1,5,Alterações detectadas - Procure um médico
+299.0,34.0,1.0,3.71,34.7,93.5,28.6,30.5,14.7,11.06,249.0,10.6,Maria Cecília Costela,299,0,0,0,1,1,0,2,2,6,Alterações detectadas - Procure um médico
+300.0,48.0,0.0,5.33,44.7,83.9,30.0,35.7,13.3,5.1,87.0,16.0,Nathan das Neves,300,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+301.0,42.0,1.0,3.66,27.4,74.9,20.2,27.0,18.3,10.79,434.0,7.4,Daniela da Rocha,301,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+302.0,52.0,1.0,5.0,44.7,89.4,27.0,30.2,14.4,17.7,313.0,13.5,Liz Ramos,302,1,1,1,1,1,0,1,2,2,Alterações detectadas - Procure um médico
+303.0,80.0,0.0,3.51,29.0,82.6,31.7,38.3,13.8,6.5,290.0,11.1,Dr. André Farias,303,0,0,0,1,1,2,1,1,4,Alterações detectadas - Procure um médico
+304.0,57.0,0.0,2.25,21.1,93.6,36.1,38.6,14.1,9.2,140.0,8.1,Sr. Anthony Gabriel Cunha,304,0,0,0,1,2,2,1,1,5,Alterações detectadas - Procure um médico
+305.0,62.0,1.0,4.82,37.8,78.4,25.1,32.0,14.7,21.1,159.0,12.1,Melina Siqueira,305,1,1,1,0,0,1,2,2,4,Alterações detectadas - Procure um médico
+306.0,26.0,1.0,3.77,33.2,88.1,27.3,31.0,14.2,7.77,140.0,10.3,Sofia Carvalho,306,0,0,0,1,1,0,1,1,4,Alterações detectadas - Procure um médico
+307.0,83.0,0.0,3.94,36.3,92.1,28.4,30.9,15.1,11.15,100.0,11.2,Gael Dias,307,0,0,0,1,1,0,2,2,6,Alterações detectadas - Procure um médico
+308.0,35.0,0.0,4.73,36.4,77.1,31.0,40.2,13.4,8.04,341.0,14.6,João Gabriel Andrade,308,1,0,1,0,1,2,1,1,3,Alterações detectadas - Procure um médico
+309.0,54.0,1.0,2.96,25.3,85.6,31.6,30.9,15.5,8.2,283.0,9.3,Olívia Costela,309,0,0,0,1,1,0,2,1,5,Alterações detectadas - Procure um médico
+310.0,57.0,0.0,1.92,17.5,91.4,36.0,39.4,14.3,13.7,273.0,6.9,Dr. Nicolas Oliveira,310,0,0,0,1,2,2,1,2,6,Alterações detectadas - Procure um médico
+311.0,55.0,1.0,3.16,28.2,89.2,26.9,30.1,14.9,8.68,213.0,8.5,Lavínia Leão,311,0,0,0,1,0,0,2,1,6,Alterações detectadas - Procure um médico
+312.0,19.0,0.0,5.08,45.9,90.4,28.1,31.2,14.7,4.64,207.0,14.3,Marcos Vinicius Almeida,312,1,1,1,1,1,0,2,1,2,Alterações detectadas - Procure um médico
+313.0,45.0,0.0,5.57,48.9,87.8,26.6,30.3,13.3,7.8,195.0,14.3,Carlos Eduardo Caldeira,313,1,2,1,1,0,0,1,1,3,Alterações detectadas - Procure um médico
+314.0,80.0,1.0,3.43,30.6,89.2,24.2,27.1,17.9,14.58,303.0,8.3,Srta. Luiza Campos,314,0,0,0,1,0,0,2,2,7,Alterações detectadas - Procure um médico
+315.0,49.0,0.0,3.75,35.0,93.3,28.0,30.0,19.5,16.65,201.0,10.5,Sr. Rael Albuquerque,315,0,0,0,1,1,0,2,2,6,Alterações detectadas - Procure um médico
+316.0,60.0,1.0,4.51,44.2,98.0,29.0,29.6,12.4,8.02,267.0,13.1,Mariane Melo,316,1,1,1,1,1,0,1,1,1,Alterações detectadas - Procure um médico
+317.0,52.0,1.0,4.16,37.5,90.1,27.2,30.1,13.5,14.82,167.0,11.3,Anna Liz Araújo,317,1,1,0,1,1,0,1,2,3,Alterações detectadas - Procure um médico
+318.0,46.0,1.0,4.85,38.8,80.0,23.3,29.1,17.0,5.82,510.0,11.3,Joana Pacheco,318,1,1,1,1,0,0,2,1,3,Alterações detectadas - Procure um médico
+319.0,22.0,1.0,4.41,34.5,78.2,22.4,28.7,16.0,6.78,294.0,9.9,Laura Costela,319,0,0,0,0,0,0,2,1,7,Alterações detectadas - Procure um médico
+320.0,32.0,0.0,1.36,16.6,122.1,38.2,31.3,29.2,7.57,139.0,5.2,Sr. Rael Machado,320,0,0,0,2,2,0,2,1,7,Alterações detectadas - Procure um médico
+321.0,56.0,1.0,3.85,36.8,95.6,28.8,30.2,16.0,3.03,60.0,11.1,Gabriela Aragão,321,1,1,0,1,1,0,2,0,4,Alterações detectadas - Procure um médico
+322.0,31.0,1.0,4.12,33.3,80.8,27.2,33.6,16.2,8.1,204.0,11.2,Dra. Maria Sophia Rocha,322,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+323.0,34.0,1.0,3.82,31.0,87.17,28.27,32.43,13.3,7.9,158.0,10.8,Eloá da Costa,323,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+324.0,21.0,1.0,3.24,25.1,77.5,25.9,33.4,16.1,10.0,208.0,8.4,Liz Lopes,324,0,0,0,0,0,1,2,1,6,Alterações detectadas - Procure um médico
+325.0,28.0,1.0,3.59,32.4,90.1,30.5,33.9,14.3,7.6,156.0,11.0,Maria Fernanda Rezende,325,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+326.0,32.0,1.0,5.08,43.6,86.0,29.2,33.9,14.5,10.5,356.0,14.8,Juliana Pinto,326,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+327.0,29.0,1.0,3.96,33.6,84.8,28.5,33.6,14.8,9.1,184.0,11.3,Giovanna Peixoto,327,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+328.0,14.0,1.0,5.17,24.9,80.85,23.21,28.71,12.3,6.6,660.0,12.0,Srta. Sarah Dias,328,1,0,1,1,0,0,1,1,3,Alterações detectadas - Procure um médico
+329.0,39.0,0.0,5.03,42.8,85.0,27.4,32.3,16.7,5.3,226.0,13.8,Daniel Nunes,329,1,1,1,1,1,1,2,1,1,Alterações detectadas - Procure um médico
+330.0,55.0,1.0,4.22,34.3,81.2,26.5,32.6,16.66,5.9,35.0,11.2,Catarina Castro,330,1,0,0,1,0,1,2,1,4,Alterações detectadas - Procure um médico
+331.0,47.0,0.0,4.61,40.9,88.8,29.2,32.9,14.0,6.3,211.0,13.4,Sr. Francisco Freitas,331,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+332.0,27.0,1.0,4.06,34.6,85.2,28.8,33.8,15.0,10.9,191.0,11.7,Isabelly Nogueira,332,1,0,0,1,1,1,2,1,3,Alterações detectadas - Procure um médico
+333.0,25.0,0.0,5.27,46.7,88.7,29.6,33.3,14.2,8.3,234.0,15.6,Ian Sá,333,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+334.0,26.0,1.0,4.36,38.1,87.4,29.6,33.8,13.8,6.2,278.0,12.9,Letícia da Luz,334,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+335.0,38.0,0.0,5.94,47.7,80.4,27.3,34.0,14.0,5.3,160.0,16.2,Nicolas Macedo,335,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+336.0,60.0,1.0,4.08,38.8,95.0,30.8,32.4,15.2,7.1,183.0,12.6,Maysa Peixoto,336,1,1,0,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+337.0,74.0,1.0,4.47,40.4,90.4,29.4,32.6,16.1,9.2,90.0,13.2,Isabela Santos,337,1,1,0,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+338.0,70.0,1.0,5.11,41.6,81.4,26.8,33.0,14.1,4.5,192.0,13.7,Maria Eduarda Dias,338,1,1,1,1,0,1,1,1,1,Alterações detectadas - Procure um médico
+339.0,24.0,1.0,4.24,40.4,95.3,30.9,32.4,13.1,6.7,217.0,13.1,Maya Rocha,339,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+340.0,28.0,1.0,4.33,41.1,94.8,32.1,33.8,13.8,3.5,151.0,13.9,Beatriz Pereira,340,1,1,0,1,1,1,1,0,2,Alterações detectadas - Procure um médico
+341.0,23.0,1.0,4.62,43.2,93.4,31.9,34.1,13.4,2.6,150.0,14.7,Maria Helena da Cunha,341,2,1,1,1,1,1,1,0,2,Alterações detectadas - Procure um médico
+342.0,74.0,1.0,4.47,40.4,90.0,32.6,32.6,16.1,9.2,90.0,13.2,Dra. Carolina Jesus,342,1,1,0,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+343.0,41.0,1.0,4.9,39.4,80.5,32.2,32.2,13.6,4.7,210.0,12.7,Raquel Castro,343,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+344.0,27.0,0.0,4.63,41.1,88.9,32.5,32.5,13.8,10.0,271.0,13.3,Gustavo Henrique Marques,344,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+345.0,24.0,1.0,3.5,34.1,97.5,32.6,32.6,14.4,8.1,283.0,11.1,Sra. Maysa Alves,345,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+346.0,68.0,0.0,3.79,36.2,95.6,31.9,33.4,14.4,5.8,390.0,12.1,André Castro,346,1,0,0,1,1,1,1,1,2,Alterações detectadas - Procure um médico
+347.0,57.0,0.0,4.62,34.3,93.7,31.8,33.9,13.0,11.1,170.0,14.7,Henry Gabriel Machado,347,1,0,1,1,1,1,1,2,2,Alterações detectadas - Procure um médico
+348.0,26.0,0.0,4.1,40.1,85.9,31.5,31.5,13.1,9.8,265.0,13.1,Sr. Diego Fonseca,348,1,1,0,1,1,0,1,1,2,Alterações detectadas - Procure um médico
+349.0,27.0,1.0,3.17,28.1,88.6,30.6,34.5,12.7,7.6,178.0,9.7,Agatha Pereira,349,0,0,0,1,1,1,1,1,3,Alterações detectadas - Procure um médico
+350.0,65.0,1.0,3.47,36.9,87.0,32.6,32.1,13.2,4.2,180.0,12.1,Rebeca Sá,350,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+351.0,45.0,1.0,4.52,43.1,92.4,30.9,33.9,13.1,2.4,149.0,14.7,Ana Luiza Gonçalves,351,2,1,1,1,1,1,1,0,2,Alterações detectadas - Procure um médico
+352.0,27.0,0.0,4.53,40.9,88.7,31.5,32.3,13.7,10.2,269.0,13.2,João Lucas Castro,352,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+353.0,34.0,1.0,3.45,37.4,86.0,31.2,30.2,12.9,11.5,264.0,12.5,Alice Leão,353,1,1,0,1,1,0,1,2,3,Alterações detectadas - Procure um médico
+354.0,31.0,0.0,3.54,40.3,86.9,31.1,32.5,11.4,4.5,179.0,11.9,Leandro Lopes,354,0,1,0,1,1,1,0,1,3,Alterações detectadas - Procure um médico
+355.0,46.0,0.0,4.76,42.9,90.1,30.2,33.5,13.1,7.2,244.0,14.4,Otávio Rodrigues,355,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+356.0,25.0,1.0,4.0,37.5,93.7,32.3,34.5,17.4,6.7,312.0,12.9,Sra. Caroline Vieira,356,1,1,0,1,1,1,2,1,2,Alterações detectadas - Procure um médico
+357.0,24.0,0.0,4.66,35.7,76.6,26.2,34.1,13.7,8.7,266.0,12.2,Vicente Sousa,357,1,0,1,0,0,1,1,1,3,Alterações detectadas - Procure um médico
+358.0,28.0,0.0,3.42,30.7,89.7,28.7,32.0,19.0,7.7,457.0,9.8,Diogo Barros,358,0,0,0,1,1,1,2,1,4,Alterações detectadas - Procure um médico
+359.0,22.0,0.0,4.65,29.1,62.6,20.4,32.6,17.0,6.7,200.0,9.5,Ravy Abreu,359,0,0,1,0,0,1,2,1,5,Alterações detectadas - Procure um médico
+360.0,17.0,0.0,4.86,39.2,80.7,27.7,34.4,13.4,4.4,180.0,13.5,Sr. Arthur Miguel Santos,360,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+361.0,51.0,0.0,4.85,35.2,91.7,31.0,33.8,13.3,5.6,215.0,15.0,Benjamim Lima,361,1,0,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+362.0,21.0,1.0,4.47,39.7,88.7,29.3,33.0,13.5,9.2,329.0,13.1,Gabrielly Araújo,362,1,1,0,1,1,1,1,1,1,Alterações detectadas - Procure um médico
+363.0,35.0,1.0,4.75,36.2,86.7,27.9,32.1,13.5,6.48,174.0,13.2,Agatha Pinto,363,1,1,1,1,1,1,1,1,0,Resultados dentro da normalidade
+364.0,26.0,0.0,4.95,44.4,89.7,30.6,34.2,12.3,8.8,279.0,15.2,Dr. Vitor Hugo Porto,364,2,1,1,1,1,1,1,1,1,Alterações detectadas - Procure um médico

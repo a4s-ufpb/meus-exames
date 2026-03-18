@@ -1,47 +1,36 @@
-from cleaning import load_raw_data, clean_dataframe, generate_names, save_cleaned_data
-from feature_engineering import remove_underage, classify_hgb, classify_mchc, classify_mch, classify_mcv, classify_pcv, classify_plt, classify_rbc, classify_rdw, classify_tlc, generate_score
+import os
 from pathlib import Path
+from data_manager import DataManager
+from engine import ClinicalEngine
+
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+RAW_DATA_PATH = BASE_DIR / "data" / "raw" / "raw_data_CBC.csv"
+PROCESSED_DATA_PATH = BASE_DIR / "data" / "processed" / "clinical_features.csv"
 
-RAW_PATH =  BASE_DIR /"data"/"raw"/"raw_data_CBC.csv"
-CLEAN_PATH = BASE_DIR /"data"/"processed"/"cleaned_data.csv"
-FEATURE_PATH = BASE_DIR /"data"/"processed"/"clinical_features.csv"
+def run_pipeline():
 
-def main():
-    df = load_raw_data(RAW_PATH)
+    dm = DataManager()
+    engine = ClinicalEngine()
 
-    df = clean_dataframe(df)
-    df = generate_names(df)
+    try:
 
-    save_cleaned_data(df, CLEAN_PATH)
+        df = dm.load_raw(RAW_DATA_PATH)
+        df = dm.clean_numeric_data(df)
 
-    df = remove_underage(df)
+        df = dm.anonymize_patients(df)
 
-    df = classify_hgb(df)
-    df = classify_mch(df)
-    df = classify_mchc(df)
-    df = classify_mcv(df)
-    df = classify_pcv(df)
-    df = classify_plt(df)
-    df = classify_rbc(df)
-    df = classify_rdw(df)
-    df = classify_tlc(df)
+        df = engine.classify_all_exams(df)
 
-    class_columns = [
-        "HGB_class",
-        "PCV_class",
-        "MCHC_class",
-        "MCH_class",
-        "RDW_class",
-        "PLT_class",
-        "RBC_class",
-        "MCV_class",
-        "TLC_class"
-    ]
+        df = engine.generate_health_score(df)
 
-    df = generate_score(df, class_columns)
-    df.to_csv(FEATURE_PATH, index=False)
+        dm.save_data(df, PROCESSED_DATA_PATH)
+
+        return df
+
+    except Exception as e:
+        print(f"Erro durante a execução do pipeline: {e}")
+        return None
 
 if __name__ == "__main__":
-    main()
+    run_pipeline()
