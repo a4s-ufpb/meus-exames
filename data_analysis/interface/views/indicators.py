@@ -2,33 +2,32 @@ import streamlit as st
 from data_analysis.interface.components.bullet import plot_bullet
 from data_analysis.src.config import EXAM_SETTINGS
 
-
 def render_indicators(df, patient_id):
 
     st.subheader("Indicadores Clínicos")
 
+    available_exams = {key: config['label'] for key, config in EXAM_SETTINGS.items()}
+    
+    selected_exams = st.multiselect(
+        "Filtre os exames que deseja visualizar (deixe em branco para exibir todos):",
+        options=list(available_exams.keys()),
+        default=[],
+        format_func=lambda x: available_exams[x] 
+    )
 
-    st.markdown("""
-        <div style="display: flex; gap: 15px; margin-bottom: 20px; font-size: 0.8em; color: #888;">
-            <span><span style="color: #e00d0d;">■</span> Baixo</span>
-            <span><span style="color: #00c04b;">■</span> Normal</span>
-            <span><span style="color: #ffa500;">■</span> Alto</span>
-        </div>
-    """, unsafe_allow_html=True)
-
+    exams_to_show = selected_exams if selected_exams else list(available_exams.keys())
 
     cols = st.columns(3)
+    charts_rendered = 0
 
-    for i, (exam_key, config) in enumerate(EXAM_SETTINGS.items()):
-        with cols[i % 3]:
+    for exam_key in exams_to_show:
+        config = EXAM_SETTINGS[exam_key]
+        
+        normal_range = config["ranges"].get("default", (0, 100))
+        result = plot_bullet(df, patient_id, exam_key.upper(), normal_range, label=config['label'], unit=config['unit'])
 
-            st.markdown(f"**{config['label']}** <small>({config['unit']})</small>", unsafe_allow_html=True)
-
-            normal_range = config["ranges"].get("default", (0, 100))
-            result = plot_bullet(df, patient_id, exam_key.upper(), normal_range)
-
-            if result:
-
+        if result:
+            with cols[charts_rendered % 3]:
                 fig, status, color, bg_color = result
 
                 st.plotly_chart(fig, width="stretch")
@@ -49,7 +48,4 @@ def render_indicators(df, patient_id):
                     """,
                     unsafe_allow_html=True
                 )
-            else:
-                st.info(f"Dados de {config['label']} indisponíveis.")
-
-            st.write("")
+            charts_rendered += 1
